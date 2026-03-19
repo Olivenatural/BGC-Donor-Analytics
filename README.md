@@ -1,24 +1,34 @@
 # Boys & Girls Club Donor Analysis
 
-## Problem
-The organization wanted to better understand donor behavior and improve fundraising efforts.
+## Business Problem
+The Boys & Girls Club wanted to better understand donor behavior and identify opportunities to improve fundraising performance and donor engagement.
 
-## Tools
-Python, pandas, matplotlib
+## Dataset
+The dataset included donation records such as:
+- donation amounts  
+- donation dates  
+- donor categories  
+
+(Note: All data has been anonymized and aggregated to protect privacy.)
+
+## Tools Used
+- Python  
+- pandas  
+- matplotlib  
 
 ## Process
-
-- Cleaned dataset
-- Performed exploratory data analysis
-- Created visualizations
+1. Cleaned and prepared the dataset  
+2. Performed exploratory data analysis (EDA)  
+3. Analyzed donation trends over time  
+4. Created visualizations to highlight key patterns  
 
 ## Key Insights
+- Certain time periods showed higher donation activity  
+- Donor engagement varied across different donor groups  
 
-- Identified patterns in donation activity
-- Found high-engagement time periods
+## Recommendations
+- Focus fundraising efforts during peak donation periods  
+- Strengthen engagement with high-value and returning donors  
 
-## Recommendation
-Focus outreach during peak donation periods and target high-value donors.
-
-## Note
-All data has been anonymized and aggregated to protect privacy.
+## Project Outcome
+This analysis provided insights that can help guide more targeted fundraising strategies and improve donor retention.
