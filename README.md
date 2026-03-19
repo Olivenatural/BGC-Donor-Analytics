@@ -24,7 +24,11 @@ The dataset included donation records such as:
 
 ## Key Insights
 - Certain time periods showed higher donation activity  
-- Donor engagement varied across different donor groups  
+- Donor engagement varied across different donor groups
+
+  ## Sample Visualization
+
+![Donation Trends](images/donation_trends.png)
 
 ## Recommendations
 - Focus fundraising efforts during peak donation periods  
