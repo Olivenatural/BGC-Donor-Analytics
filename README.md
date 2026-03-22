@@ -1,38 +1,51 @@
-# Boys & Girls Club Donor Analysis
+# Boys & Girls Club Donor Data Analysis
 
-## Business Problem
-The Boys & Girls Club wanted to better understand donor behavior and identify opportunities to improve fundraising performance and donor engagement.
+## 📌 Project Overview
+This project was completed as part of a data analytics externship focused on improving donor data organization and fundraising insights for the Boys & Girls Club.
 
-## Dataset
-The dataset included donation records such as:
-- donation amounts  
-- donation dates  
-- donor categories  
+The organization’s donor data was fragmented across multiple sources, making it difficult to track donor activity, engagement, and trends.
 
-(Note: All data has been anonymized and aggregated to protect privacy.)
+## 🎯 Objectives
+- Consolidate donor data from multiple sources into a unified dataset
+- Identify repeat donors and donation patterns
+- Analyze donor behavior to support fundraising strategies
 
-## Tools Used
-- Python  
-- pandas  
-- matplotlib  
+## 🛠 Tools & Technologies
+- Python (pandas, matplotlib)
+- Jupyter Notebook
+- Data Cleaning & EDA
+- Data Visualization
 
-## Process
-1. Cleaned and prepared the dataset  
-2. Performed exploratory data analysis (EDA)  
-3. Analyzed donation trends over time  
-4. Created visualizations to highlight key patterns  
+## 🔍 Key Steps
+1. Data Cleaning & Standardization
+   - Cleaned names, emails, and donation fields
+   - Handled missing values and inconsistent formats
 
-## Key Insights
-- Certain time periods showed higher donation activity  
-- Donor engagement varied across different donor groups
+2. Data Consolidation
+   - Combined multiple datasets into a unified donation table
+   - Created a `donor_id` to track repeat donors
 
-  ## Sample Visualization
+3. Exploratory Data Analysis (EDA)
+   - Identified top donors
+   - Analyzed donation trends by campaign and time
 
-![Donation Trends](images/donation_trends.png)
+4. Visualization
+   - Top Donors by Total Contribution
+   - Monthly Donor Activity
+   - Donor Frequency (repeat donors)
 
-## Recommendations
-- Focus fundraising efforts during peak donation periods  
-- Strengthen engagement with high-value and returning donors  
+## 📊 Key Insights
+- A small group of donors contributed a large portion of total donations
+- Donor participation varied by month, indicating optimal timing for campaigns
+- Many donors gave only once, highlighting an opportunity for retention strategies
 
-## Project Outcome
-This analysis provided insights that can help guide more targeted fundraising strategies and improve donor retention.
+## 💡 Recommendations
+- Implement donor appreciation strategies for high-value donors
+- Schedule fundraising events during peak donation months
+- Use centralized tools to track donor engagement and improve retention
+
+## ⚠️ Note
+Data has been anonymized to protect donor privacy.
+
+## 🚀 Outcome
+This project demonstrates the ability to clean, analyze, and interpret real-world data to generate actionable insights for nonprofit organizations.
