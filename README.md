@@ -47,5 +47,10 @@ The organization’s donor data was fragmented across multiple sources, making i
 ## ⚠️ Note
 Data has been anonymized to protect donor privacy.
 
+## Data Privacy Note
+The original project used real organizational donor data.
+For privacy and confidentiality, the data included in this repository has been anonymized and replaced with sample data. 
+The analysis workflow and methodology remain the same.
+
 ## 🚀 Outcome
 This project demonstrates the ability to clean, analyze, and interpret real-world data to generate actionable insights for nonprofit organizations.
