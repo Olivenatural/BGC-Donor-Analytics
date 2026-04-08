@@ -1,0 +1,27 @@
+table,column,meaning
+service_requests,request_id,Unique request identifier
+service_requests,customer_id,Customer foreign key
+service_requests,region_id,Region foreign key
+service_requests,request_type,Category of utility/service request
+service_requests,priority,Urgency level
+service_requests,channel,How request was submitted
+service_requests,status,Current status of request
+service_requests,created_at,When request was opened
+service_requests,closed_at,When request was closed
+service_requests,resolution_hours,Hours to resolution for closed tickets
+service_requests,crew_id,Crew assigned if field work needed
+service_requests,satisfaction_score,Customer satisfaction score from 1 to 5
+service_requests,repeat_contact,Whether customer contacted support again
+service_requests,estimated_cost,Estimated handling cost in dollars
+customers,customer_id,Customer identifier
+customers,customer_code,Readable customer code
+customers,region_id,Customer region
+customers,customer_type,Residential or Commercial
+customers,start_date,Customer start date
+regions,region_id,Region identifier
+regions,region_name,Region name
+regions,hub_city,Hub city
+crews,crew_id,Crew identifier
+crews,crew_name,Crew name
+crews,region_id,Crew region
+crews,skill_group,Crew specialty

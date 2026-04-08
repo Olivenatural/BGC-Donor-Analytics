@@ -1,0 +1,831 @@
+first_name,last_name,business_name,business_address,business_city,business_state,business_zip_code,address,city,state,zip_code,phone_number,email,source_system,source_category
+,,Walmart #1835,2405 Vestal Parkway East,Vestal,NY,13850.0,,,,,,,registration_contacts,registration
+,,KHM,744 Conklin Rd,Binghamton,NY,13903.0,,,,,,,registration_contacts,registration
+,,Broadway Diner,3140 Watson Blvd,Endwell,NY,13760.0,,,,,,,registration_contacts,registration
+,,JuUuice Juicery,35 Court St,Binghamton,NY,13901.0,,,,,,,registration_contacts,registration
+,,Binghamton Rumble Ponies,211 Henry St,Binghamton,NY,13901.0,,,,,,,registration_contacts,registration
+,,Big E Tire & Auto Service,363 Court t,Binghamton,NY,13904.0,,,,,,,registration_contacts,registration
+,,Peterson's Tavern,11 Main St,Binghamton,NY,13905.0,,,,,,,registration_contacts,registration
+,,YWCA of Broome County,80 Hawley St,Binghamton,NY,13901.0,,,,,,,registration_contacts,registration
+,,Drain Brain of NYPA,2079 Route 26,Endicott,NY,13760.0,,,,,,,registration_contacts,registration
+,,Riger Marketing Communications,53 Chenango St 5th Floor,Binghamton,NY,13901.0,,,,,,,registration_contacts,registration
+,,The Discovery Cetner of the Southern Tier,60 Morgan Rd,Binghamton,NY,13903.0,,,,,,,registration_contacts,registration
+,,Goldenrod Studios Design,120 Washington St,Binghamton,NY,13901.0,,,,,,,registration_contacts,registration
+,,Leroy Package Store,64 Leroy St,Binghamton,NY,13905.0,,,,,,,registration_contacts,registration
+,,Warehouse Carpet & Flooring Outlets,500 Reynolds Rd,Johnson City,NY,13790.0,,,,,,,registration_contacts,registration
+,,Barney & Dickerson Inc.,520 Prentice Rd,Vestal,NY,13850.0,,,,,,,registration_contacts,registration
+,,"Servpro of Broome, Tompkins, & Tioga County",134 Conlin Rd,Binghamton,NY,13903.0,,,,,,,registration_contacts,registration
+,,Binghamton Material Handling,295 Court St,Binghamton,NY,13904.0,,,,,,,registration_contacts,registration
+,,"Frito-Lay, Inc,",10 Spud Rd,Binghamton,NY,13901.0,,,,,,,registration_contacts,registration
+,,McCoy's Chophouse,105 West Main St,Endicott,NY,13760.0,,,,,,,registration_contacts,registration
+,,Big Zues Barbecue,213 Chenango St,Binghamton,NY,13904.0,,,,,,,registration_contacts,registration
+,,"Johnson, Lauder, & Savidge",2 Court St,Binghamton,NY,13901.0,,,,,,,registration_contacts,registration
+,,Greek Peak Mountain Resort,2177 Clute Rd,Cortland,NY,13045.0,,,,,,,registration_contacts,registration
+,,Walmart #5732,2 Gannett Dr,Johnson City,NY,13901.0,,,,,,,registration_contacts,registration
+,,Cunningham's Jewelry,1139 Upper Front St,Binghamton,NY,13905.0,,,,,,,registration_contacts,registration
+,,Olive Garden,1112 Vestal Parkway,Vestal,NY,13850.0,,,,,,,registration_contacts,registration
+,,Midway Lanes,213 North Jensen Rd,Vestal,NY,13850.0,,,,,,,registration_contacts,registration
+,,California Grill,912 Vestal Parkway East,Vestal,NY,13850.0,,,,,,,registration_contacts,registration
+,,Bates Troy,151 Laurel Ave,Binghamton,NY,13905.0,,,,,,,registration_contacts,registration
+,,Wegmans Food Market,650 Harry L Drive,Johnson City,NY,13790.0,,,,,,,registration_contacts,registration
+,,Pinkie's BBQ & Catering,1166 Upper Front St,Binghamton,NY,13905.0,,,,,,,registration_contacts,registration
+,,Olum's Furniture & Appliances,3701 Vestal Parkway East,Vestal,NY,13850.0,,,,,,,registration_contacts,registration
+,,Endicott Performing Arts,27 Oak St,Binghamton,NY,13905.0,,,,,,,registration_contacts,registration
+,,Coppertop Tavern,4700 Vestal Parkway East,Vestal,NY,13850.0,,,,,,,registration_contacts,registration
+,,Binghamton Hardware & HVAC Supply,101 Eldridge St,Binghamton,NY,13901.0,,,,,,,registration_contacts,registration
+,,Hatala Orthodontics,165 Riverside Dr,Johnson City,NY,13790.0,,,,,,,registration_contacts,registration
+,,Belknap Lumber Inc.,7 Belknap Ave,Binghamton,NY,13905.0,,,,,,,registration_contacts,registration
+,,YMCA of Broome County,61 Susquehanna Street,Binghamton,NY,13901.0,,,,,,,registration_contacts,registration
+,,Cracker Barrell,876 Front St,Binghamton,NY,13901.0,,,,,,,registration_contacts,registration
+,,Fat Cowboy's BBQ LLC,69 State Route 7,Port Crane,NY,13833.0,,,,,,,registration_contacts,registration
+,,Nirchi's Pizza,166 Water St,Binghamton,NY,13901.0,,,,,,,registration_contacts,registration
+,,Floyd's Rent-All,3303 East Main St,Endwell,NY,13760.0,,,,,,,registration_contacts,registration
+,,A Tavolo Italian Restaurant,42 Chenango Bridge,Binghamton,NY,13901.0,,,,,,,registration_contacts,registration
+,,Therapeutic Message by Vicky Honour,65 Pennsylvania Ave 1st Floor,Binghamton,NY,13905.0,,,,,,,registration_contacts,registration
+,,Big E Tire & Auto Service,1433 Upper Front St,Binghamton,NY,13901.0,,,,,,,registration_contacts,registration
+,,Piaker & Lyons,92 Hawley St,Binghamton,NY,13901.0,,,,,,,registration_contacts,registration
+,,My Uncle's Place,120 East Service Rd,Binghamton,NY,13901.0,,,,,,,registration_contacts,registration
+,,Vacri Construction,1 Brick Ave,Binghamton,NY,13901.0,,,,,,,registration_contacts,registration
+,,Kopernik Observatory & Science Center,698 Underwood Rd,Vestal,NY,13850.0,,,,,,,registration_contacts,registration
+,,Johnson Outdoors Inc.,625 Conklin Rd,Binghamton,NY,13903.0,,,,,,,registration_contacts,registration
+,,Ti-Ahwaga Community Players Inc.,42 Delphine St,Owego,NY,13827.0,,,,,,,registration_contacts,registration
+,,Southern Tier Sewing Center,800 Valley Plaza Dr,Johnson City,NY,13790.0,,,,,,,registration_contacts,registration
+,,SouthCity Publick House,1200 Vestal Ave,Binghamton,NY,13903.0,,,,,,,registration_contacts,registration
+,,Lesko Financial Service Inc,400 Plaza Drive Suite A,Vestal,NY,13850.0,,,,,,,registration_contacts,registration
+,,Vestal Wine & Liquor,146 Vestal Parkway West,Vestal,NY,13850.0,,,,,,,registration_contacts,registration
+,,Mirabito Fuel Group,49 Court St,Binghamton,NY,13901.0,,,,,,,registration_contacts,registration
+,,Rent-A-Chef,14 Johnson Ave,Binghamton,NY,13905.0,,,,,,,registration_contacts,registration
+,,Berkshire Farm Center,2-8 Hawley St,Binghamton,NY,3901.0,,,,,,,registration_contacts,registration
+,,Pro-Tech Security Locksmithing,1250 Upper Front St #197,Binghamton,NY,13903.0,,,,,,,registration_contacts,registration
+,,The Riverdale banquet Hall,2901 Watson Blvd,Endwell,NY,13760.0,,,,,,,registration_contacts,registration
+,,Parlor City Vegan,81 Clinton St,Binghamton,NY,13905.0,,,,,,,registration_contacts,registration
+,,Remlik's Grille & Oyster Bar,31 Lewis St,Binghamton,NY,13901.0,,,,,,,registration_contacts,registration
+,,Southbridge Wine & Spirits,117 Vestal Ave,Binghamton,NY,13903.0,,,,,,,registration_contacts,registration
+,,Weitsman Recycling LLC,10 Brandywine Highway,Binghamton,NY,13901.0,,,,,,,registration_contacts,registration
+,,Michelangelo's Pizzeria & Restaurant,465 Court St,Binghamton,NY,13904.0,,,,,,,registration_contacts,registration
+,,Saki-Tumi Inc.,71 Court St,Binghamton,NY,13901.0,,,,,,,registration_contacts,registration
+,,Consol's Family Kitchen,101 Oak Hill Ave,Endicott,NY,13760.0,,,,,,,registration_contacts,registration
+,,"Keystone Associates, LLC",58 Exchange St,Binghamton,NY,13901.0,,,,,,,registration_contacts,registration
+,,Jewish Community Center,500 Clubhouse Rd,Vestal,NY,13850.0,,,,,,,registration_contacts,registration
+,,Social on State,201 State St,Binghamton,NY,13901.0,,,,,,,registration_contacts,registration
+,,Rogers Service Group,245 Clinton St,Binghamton,NY,13905.0,,,,,,,registration_contacts,registration
+,,Red Lobster Restaurants,1200 Vestal Parkway East,Vestal,NY,13850.0,,,,,,,registration_contacts,registration
+,,Overhead Door Co. of Binghamton,302 Front St,Binghamton,NY,13905.0,,,,,,,registration_contacts,registration
+,,The Bundy Museum of History & Art,129 Main St,Binghamton,NY,13905.0,,,,,,,registration_contacts,registration
+,,Burns Tent Rental,912 Oak Hill Ave,Endicott,NY,13760.0,,,,,,,registration_contacts,registration
+,,Traditions at the Glen,401 Watson Blvd,Johnson City,NY,13790.0,,,,,,,registration_contacts,registration
+,,Filbin Painting Inc.,24 George St,Johnson City,NY,13790.0,,,,,,,registration_contacts,registration
+,,Park Outdoor Advertising,113 Clinton St,Binghamton,NY,13905.0,,,,,,,registration_contacts,registration
+,,Little Venice Restaurant,111 Chenango St,Binghamton,NY,13901.0,,,,,,,registration_contacts,registration
+,,Endwell Rug Company,3646 George F. Highway,Endwell,NY,13760.0,,,,,,,registration_contacts,registration
+,,Ross Park Zoo,60 Morgan Rd,Binghamton,NY,13903.0,,,,,,,registration_contacts,registration
+,,Bates Troy,177 Main St,Binghamton,NY,13905.0,,,,,,,registration_contacts,registration
+,,"VannCott Jeweler, Ltd.",2433 Vestal Parkway,Vestal,NY,13850.0,,,,,,,registration_contacts,registration
+,,Dick's Sporting Goods,1314 Conklin Rd,Conklin,NY,13748.0,,,,,,,registration_contacts,registration
+,,Sole City Coffee Co.,250 Main St,Johnson City,NY,13790.0,,,,,,,registration_contacts,registration
+,,Chroma Café & Bakery,97 Court St,Binghamton,NY,13901.0,,,,,,,registration_contacts,registration
+,,Home Central,199 State Rd,Vestal,NY,13850.0,,,,,,,registration_contacts,registration
+,,Robert's Eye Care Associates,3455 Vestal Parkway East,Vestal,NY,13850.0,,,,,,,registration_contacts,registration
+,,Subway Development,168 Water St Suite 5R,Binghamton,NY,13901.0,,,,,,,registration_contacts,registration
+,,Doubletree by Hilton Binghamton,225 Water St,Binghamton,NY,13901.0,,,,,,,registration_contacts,registration
+,,Hillcrest Collision Center,2813 Old Vestal Rd,Vestal,NY,13850.0,,,,,,,registration_contacts,registration
+,,Berger's Ski & Snowboard Shop,16 Lewis St,Binghamton,NY,13901.0,,,,,,,registration_contacts,registration
+,,Food & Fire BBQ - Taphouse,560 Harry L. Drive,Johnson City,NY,13790.0,,,,,,,registration_contacts,registration
+,,International Paper Co.,1240 Conklin Rd,Conklin,NY,13748.0,,,,,,,registration_contacts,registration
+,,Binghamton Philharmonic,71 State Street Lower Level,Binghamton,NY,13901.0,,,,,,,registration_contacts,registration
+,,Sepco Inc.,PO Box 654,Binghamton,NY,13902.0,,,,,,,registration_contacts,registration
+,,The Cone Connection,1020 Holly Lane,Endwell,NY,13760.0,,,,,,,registration_contacts,registration
+,,Taylor Rental,1029-1043 Front St,Binghamton,NY,13905.0,,,,,,,registration_contacts,registration
+,,Vieira & Associates,111 Grant Ave Suite 6,Endicott,NY,13760.0,,,,,,,registration_contacts,registration
+,,Feduke Ford Inc.,200 Vestal Pakrway East,Vestal,NY,13850.0,,,,,,,registration_contacts,registration
+,,Beer Tree Brew,197 State Route 369,Port Crane,NY,13833.0,,,,,,,registration_contacts,registration
+,,Gance's Complete Catering,602 Old Front St,Binghamton,NY,12905.0,,,,,,,registration_contacts,registration
+,,Antonio's Bar & Trattoria,100 Oak Hill Ave,Endicott,NY,13760.0,,,,,,,registration_contacts,registration
+,,Burt's Portraits,400 Jackson Ave,Endicott,NY,13760.0,,,,,,,registration_contacts,registration
+,,Kampaii Japanese Steakhouse Inc.,108 Jenson Rd,Vestal,NY,13850.0,,,,,,,registration_contacts,registration
+,,The Red Jug Pub,17 Main St,Binghamton,NY,13905.0,,,,,,,registration_contacts,registration
+,,Hoffman Car Wash,16 Kairnes St,Albany,NY,12205.0,,,,,,,registration_contacts,registration
+,,Red & White Catering,604 River Rd,Binghamton,NY,13901.0,,,,,,,registration_contacts,registration
+,,"Zappia Athletic Products, Inc.",133 Front St Suite 101,Vestal,NY,13850.0,,,,,,,registration_contacts,registration
+,,"Sentry Alarms, LLC",40 Chenango St,Binghamton,NY,13901.0,,,,,,,registration_contacts,registration
+,,Warehouse Carpet & Flooring Outlets,941 Chemung St,Horseheads,NY,14845.0,,,,,,,registration_contacts,registration
+,,Ther Goldsmith,31 Lewis St,Binghamton,NY,13901.0,,,,,,,registration_contacts,registration
+,,Our Country Hearts,2007 State Route 26,Endicott,NY,13760.0,,,,,,,registration_contacts,registration
+,,Eastern Temporaries,45 Chenango St,Binghamton,NY,13901.0,,,,,,,registration_contacts,registration
+,,Computer Emergency Room,111 Grant Ave,Endicott,NY,13760.0,,,,,,,registration_contacts,registration
+,,Southern Tier Homebuilders & Remodeling,31 Lewis St Suite 301,Binghamton,NY,13901.0,,,,,,,registration_contacts,registration
+,,Mountain Top Grove,539 Hance Rd,Vestal,NY,13850.0,,,,,,,registration_contacts,registration
+,,Lupo's Administrative Office,1219 Campville Rd,Endicott,NY,13760.0,,,,,,,registration_contacts,registration
+,,SaveAround,30 Charles St,Binghamton,NY,13901.0,,,,,,,registration_contacts,registration
+,,FOAM IT Insulation,19 Emma St,Binghamton,NY,13905.0,,,,,,,registration_contacts,registration
+,,Milk & Ice,81 Clinton St,Binghamton,NY,13905.0,,,,,,,registration_contacts,registration
+,,The Harvey & Elizabeth Shriber Foudnation,450 Plaza Dr,Vestal,NY,13850.0,,,,,,,registration_contacts,registration
+,,KW Fitness,3032 Vestal Rd,Vestal,NY,13850.0,,,,,,,registration_contacts,registration
+,,De Colores Cookies y Mas,81 Clinton St,Binghamton,NY,13905.0,,,,,,,registration_contacts,registration
+,,Jacob & Rose Olum Foundation,450 Plaza Dr,Vestal,NY,13850.0,,,,,,,registration_contacts,registration
+,,Binghamton Country Club,1401 Robinson Hill Rd,Endwell,NY,13760.0,,,,,,,registration_contacts,registration
+,,Culligan Water,429 Airport Rd,Endicott,NY,13760.0,,,,,,,registration_contacts,registration
+,,Your CBD Store Vestal,1901 Vestal Parkway East Suite 1B,Vestal,NY,13850.0,,,,,,,registration_contacts,registration
+,,Cortese Restaurant,117 Robinson St,Binghamton,NY,13904.0,,,,,,,registration_contacts,registration
+,,Boland's Excavating & Topsoil Inc.,1403 Millburn Dr,Conklin,NY,13748.0,,,,,,,registration_contacts,registration
+,,Water Street Brewing Company,268 Water St,Binghamton,NY,13901.0,,,,,,,registration_contacts,registration
+,,Grey Goose Graphics,633 Valleyview Dr,Endwell,NY,13760.0,,,,,,,registration_contacts,registration
+,,FreshSITES - Website Design,PO Box 5,Owego,NY,13827.0,,,,,,,registration_contacts,registration
+,,Tsha's Kitchen,124 Broad Ave,Binghamton,NY,13904.0,,,,,,,registration_contacts,registration
+,,The Links at Hiawatha Landing,2350 Marshland Rd,Apalachin,NY,13732.0,,,,,,,registration_contacts,registration
+,,Spiedie & Rib Pit,3908 Vestal Parkway,Vestal,NY,13850.0,,,,,,,registration_contacts,registration
+,,Roberson Museum,30 Front St,Binghamton,NY,13905.0,,,,,,,registration_contacts,registration
+,,McGirk's Irish Pub,1 Kattleville Rd,Binghamton,NY,13901.0,,,,,,,registration_contacts,registration
+,,Gault Chevrolet,2507 North St,Endwell,NY,13760.0,,,,,,,registration_contacts,registration
+,,"Willow Run Foods, Inc.",1006 US Route11,Kirkwood,NY,13795.0,,,,,,,registration_contacts,registration
+,,Java Joe's Roasting Company Inc.,73 Griswold St,Binghamton,NY,13904.0,,,,,,,registration_contacts,registration
+Veronica,Adams,,,,,,20 Bartell Rd,Binghamton,NY,13905.0,,,registration_contacts,registration
+The,Addiego Family,,,,,,883 Main Street,New Milford,PA,18834.0,,,registration_contacts,registration
+Omotinuwe,Adepoju,,,,,,2 Eric Dr,Johnson City,NY,13790.0,(646) 269-7628,ifeade77@gmail.com,registration_contacts,registration
+Donald,Ahearn,,,,,,604 Murray Hill Rd,Vestal,NY,13850.0,,,registration_contacts,registration
+Beth & Ronald,Akel,,,,,,283 Riverside Dr,Binghamton,NY,13905.0,(607) 222-8995; (607) 798-7435,Rakel@stny.rr.com,registration_contacts,registration
+Louise,Akel,,,,,,221 Riverside Dr,Binghamton,NY,13905.0,,,registration_contacts,registration
+Philip & Bridget,Akel,,,,,,4137 University Ct.,Vestal,NY,13850.0,,,registration_contacts,registration
+Renee,Akel,,,,,,289 Riverside Dr.,Binghamton,NY,13905.0,,,registration_contacts,registration
+Sally,Akel,,,,,,85 Village Dr.,Endwell,NY,13760.0,,,registration_contacts,registration
+Ferris,Akel III,,,,,,29 Eagle Dr.,Endwell,NY,13760.0,,,registration_contacts,registration
+Keira,Alexander,,,,,,97 Grant Ave,Binghamton,NY,13901.0,,,registration_contacts,registration
+John,Allen,,,,,,528 Murray Hill Rd,Vestal,NY,13850.0,,,registration_contacts,registration
+Peter,Altmann,,,,,,1650 Hawleyton Rd,Binghamton,NY,13903.0,,,registration_contacts,registration
+Buran,Amelia,,,,,,949 N. Rogers Ave,Endicott,NY,13760.0,,,registration_contacts,registration
+Robert,Ames,,,,,,6507 Highland Oak Dr,Greensboro,NC,27410.0,,,registration_contacts,registration
+Lawrence,Anderson,,,,,,52 N Brotzman Rd,Castle Creek,NY,13744.0,,,registration_contacts,registration
+Ryan,Andres,,,,,,PO Box 5306,Binghamton,NY,13902.0,,,registration_contacts,registration
+Dyan,Andrew,,,,,,1981 Franklin St,Binghamton,NY,13903.0,,,registration_contacts,registration
+Stephen,Andrew,,,,,,74 Hill Ave.,Johnson City,NY,13790.0,,,registration_contacts,registration
+Brian,Andrulewich,,,,,,523 W Main St,Endicott,NY,13760.0,,,registration_contacts,registration
+Richard,Annunziata,,,,,,4512 Madison Dr,Vestal,NY,13850.0,,,registration_contacts,registration
+Cindy,Armstrong,,,,,,,,,,(607) 269-6579,cindyarmstrong@gmail.com,registration_contacts,registration
+Dan & Sherry,Armstrong,,,,,,51 Hinsdale Rd,Whitney Point,NY,13862.0,,,registration_contacts,registration
+Jaelynn,Ashman,,,,,,2486 Stephanie Lane,Binghamton,NY,13903.0,,,registration_contacts,registration
+Jamie,Atkinson,,,,,,1820 Lyon Rd,Hallstead,PA,18822.0,(607) 237-1328,jatkinson@davidsonfox.com,registration_contacts,registration
+Blair,Atwood,,,,,,PO Box 609,Chenango Bridge,NY,13745.0,,,registration_contacts,registration
+Jason,Aurelio,,,,,,1220 Cornell Ave,Binghamton,NY,13901.0,(607) 765-8610,(607) 765-8610,registration_contacts,registration
+Kirk & Kathy,Avery,,,,,,1312 Holly Hill Rd.,Vestal,NY,13850.0,,,registration_contacts,registration
+Marian,Avery,Peoples Security Bank & Trust,,,,,53 Chapin St,Binghamton,NY,13905.0,(607) 759-3399,marianavery@psbt.com,registration_contacts,registration
+Christina,Ayres,,,,,,868 Dunbar Rd,Windsor,NY,13865.0,(607) 727-3475,chrissy@mattickcpa.com,registration_contacts,registration
+Thomas,Babcock,,,,,,1213 Crestview Dr.,Endicott,NY,13760.0,,,registration_contacts,registration
+Jacqueline,Bain,,,,,,4739 Chancellor Dr Apt 10,Jupiter,FL,33458.0,,,registration_contacts,registration
+Lucia Collar,Bale,,,,,,2473 Rhonda Dr,Vestal,NY,13850.0,,,registration_contacts,registration
+Liam,Balshuweit,,,,,,309 Blatchley Rd,Windsor,NY,13865.0,,,registration_contacts,registration
+Eugene,Banick,,,,,,"38-42 Front St., Apt. 6D",Binghamton,NY,13905.0,,,registration_contacts,registration
+Mary Beth,Baranyk,,,,,,70 Stacy Dr,Binghamton,NY,13905.0,,,registration_contacts,registration
+Sophia,Barauskas,,,,,,915 N. McKinley Ave,Endicott,NY,13760.0,,,registration_contacts,registration
+Ray,Barnard,,,,,,30 Pembroke Dr,Endicott,NY,13760.0,,,registration_contacts,registration
+Nathasha,Barrientos,,,,,,9 Thompson St,Binghamton,NY,13903.0,(518) 701-1237,natasha3381@gmail.com,registration_contacts,registration
+William,Basos,,,,,,2612 Stamford Dr,Vestal,NY,13850.0,,,registration_contacts,registration
+James,Baumgartner,,,,,,8172 Lake James Dr,Lakeland,FL,33810.0,,,registration_contacts,registration
+Larry,Baxter,,,,,,4804 Meadow Court Dr,New Bern,NC,28562.0,,,registration_contacts,registration
+Robert,Baxter,,,,,,3 Crestmont Rd,Binghamton,NY,13905.0,,,registration_contacts,registration
+Gregory,Beagell,,,,,,314 Stratmill Rd,Binghamton,NY,13904.0,,,registration_contacts,registration
+Fred,Beaudry,,,,,,311 Main St.,Owego,NY,13827.0,,,registration_contacts,registration
+Peter,Behlog,,,,,,17 Thistlewood Dr.,Binghamton,NY,13903.0,(607) 761-4740,peter@behlog.com,registration_contacts,registration
+Brian,Berg,,,,,,143 Gibbon Rd,Norwich,NY,13815.0,,,registration_contacts,registration
+Benjamin,Bergman,Jackson Bergman Law,32 West State St,Binghamton,NY,13901.0,4 Westland Court,Binghamton,NY,13905.0,(607) 725-7152,ben@jacksonbergman.com,registration_contacts,registration
+Rob,Bergman,,,,,,2 Penny Ln,Binghamton,NY,13905.0,,,registration_contacts,registration
+Easton,Bidwell,,,,,,177 Smith Hill Rd,Binghamton,NY,13905.0,,,registration_contacts,registration
+Donald,Bishop,,,,,,PO Box D,Hobart,NY,13788.0,,,registration_contacts,registration
+Rebecca,Bishop,,,,,,1241 Conklin Rd,Conklin,NY,13748.0,,,registration_contacts,registration
+Rick,Blackman,,,,,,22 College Street,Binghamton,NY,13905.0,,,registration_contacts,registration
+Oliver,Blaise,,,,,,7 Stearns Rd,Binghamton,NY,13905.0,,,registration_contacts,registration
+Jon,Blechman,,,,,,8203 Bellwort Place,Boynton Beach,FL,33472.0,,,registration_contacts,registration
+Michael,Bobal,,,,,,1255 Cornell Ave,Binghamton,NY,13901.0,(607) 624-1128,unloader@aol.com,registration_contacts,registration
+Frank,Bokal,,,,,,16 Amsbry St,Binghamton,NY,13901.0,,,registration_contacts,registration
+Janet Starr,Bordages,,,,,,217 State St,Binghamton,NY,13901.0,,,registration_contacts,registration
+John & Martine,Bordages,,,,,,117 Riverside Dr.,Binghamton,NY,13905.0,,,registration_contacts,registration
+Larry,Borelli,,,,,,23 Midwood Dr,Binghamton,NY,13903.0,,,registration_contacts,registration
+Patrick,Borelli,,,,,,3889 Jasmine Lake Cir,Naples,FL,33419.0,,,registration_contacts,registration
+Gus,Bouman,,,,,,1232 Mahoney Rd.,Brackney,PA,18812.0,,,registration_contacts,registration
+Edward,Bowen,,,,,,52 Johnson Ave,Binghamton,NY,13905.0,,,registration_contacts,registration
+Scott,Bowen,,,,,,5 Johnson Ave,Binghamton,NY,13905.0,,,registration_contacts,registration
+Sally,Bowers,,,,,,17 Terrace Dr,Binghamton,NY,13905.0,,,registration_contacts,registration
+The,Bowling Family,,,,,,616 Lowell Dr.,Endwell,NY,13760.0,,,registration_contacts,registration
+James,Boyden,,,,,,97 Woodcrest Way,Conklin,NY,13748.0,,,registration_contacts,registration
+Bruce & Cheryl,Boyea,,,,,,15 Campbell Rd. Ct.,Binghamton,NY,13905.0,,,registration_contacts,registration
+Michele,Boyle,,,,,,41 Murray St,Binghamton,NY,13905.0,,,registration_contacts,registration
+Laura,Bozuhoski,,,,,,912 River Rd,Binghamton,NY,13901.0,,,registration_contacts,registration
+Sean,Brady,,,,,,64 Johnson Ave,Binghamton,NY,13905.0,,,registration_contacts,registration
+Robert,Brazill,Achieve NY,125 Cutler Rd,Binghamton,NY,13905.0,34 Union St,Johnson City,NY,13790.0,(607) 231-5262,rbrazill@achieveny.org,registration_contacts,registration
+Jessica,Bronson,,,,,,404 Irving Ave,Endicott,NY,13760.0,,,registration_contacts,registration
+Shirley,Brookes,,,,,,2573 Bolles Hill Rd,Apalachin,NY,13732.0,,,registration_contacts,registration
+Larry,Brooks,,,,,,1152 Front St,Binghamton,NY,13905.0,,,registration_contacts,registration
+Richard,Brooks,,,,,,5460 Sundew Dr,Sarasota,FL,34238.0,,,registration_contacts,registration
+Roger,Brooks,,,,,,10 Penston Rd,Binghamton,NY,13903.0,,,registration_contacts,registration
+Kay,Brundza,,,,,,310 Cyprus Ln,Endicott,NY,13760.0,(607) 754-3183,Kbrundz@hotmail.com,registration_contacts,registration
+Anjelica,Brunelli,,,,,,8680 Viaduct Giula,Boca Raton,FL,33496.0,,,registration_contacts,registration
+Richard & Sue,Bucci,,,,,,204 Leroy St,Binghamton,NY,13905.0,,,registration_contacts,registration
+Guiliana,Bucciarelli,,,,,,67 Lincoln Ave,Binghamton,NY,13905.0,,,registration_contacts,registration
+Debbie & Mike,Buglione,,,,,,,,,,(607) 427-3901,dbuglione@yahoo.com,registration_contacts,registration
+Danielle,Bulger,,,,,,19 Euclid Ave,Binghamton,NY,13903.0,,,registration_contacts,registration
+Matthew,Bull,,,,,,,,,,(910) 373-8564,matthew.bull@scouting.org,registration_contacts,registration
+Eric,Bunt,,,,,,,,,,(607) 760-0618,eric.bunts@gmail.com,registration_contacts,registration
+Jeremy,Buran,,,,,,,,,,,,registration_contacts,registration
+Evgenia,Burdick,,,,,,9 Rockwell Rd.,Windsor,NY,13865.0,,,registration_contacts,registration
+Grayson,Burnett,,,,,,3624 Royal Road,Endwell,NY,13760.0,,,registration_contacts,registration
+John & Sue,Burtis,,,,,,16 Stratford Pl,Binghamton,NY,13905.0,(607) 760-2977,jburtis@vapc.us,registration_contacts,registration
+Maura,Burtis,,,,,,7 Edgewood Rd,Binghamton,NY,13903.0,,,registration_contacts,registration
+Mr. & Mrs. William C.,Burtis,,,,,,4500 Forest Ln,Vestal,NY,13850.0,,,registration_contacts,registration
+John,Butchko,,,,,,Box 80 Crocker Hill Rd,Binghamton,NY,13904.0,,,registration_contacts,registration
+The,Caeser Family,,,,,,106 Leroy St,Binghamton,NY,13905.0,,,registration_contacts,registration
+John,Cahill,,,,,,26 West End Ave,Binghamton,NY,13905.0,,,registration_contacts,registration
+Gregory,Calaman,,,,,,26 Degraaf Ct,Mahwah,NJ,7430.0,,,registration_contacts,registration
+Christopher,Caletka,,,,,,194 Oak St. Apt. 2,Binghamton,NY,13905.0,,,registration_contacts,registration
+Bridget,Callahan,,,,,,53 Crary Ave,Binghamton,NY,13905.0,(607) 725-3705,,registration_contacts,registration
+Gabriella,Calleo,,,,,,1000 Farm To Market Rd,Endwell,NY,13760.0,(607) 743-1844,gabriella.calleo@adp.com,registration_contacts,registration
+Evra,Calvert,,,,,,709 Rano BLVD,Vestal,NY,13850.0,,,registration_contacts,registration
+James,Camarda,,,,,,333 N Point Ctr E,Alpharetta,GA,30022.0,,,registration_contacts,registration
+Diane,Campbell,,,,,,900 Powderhouse Rd,Binghamton,NY,13903.0,,,registration_contacts,registration
+Len,Candela,,,,,,1958 Bernice Way,San Jose,CA,95124.0,,,registration_contacts,registration
+David,Cantrowitz,,,,,,5 Campbell Rd Ct,Binghamton,NY,13905.0,,,registration_contacts,registration
+George,Capwell,,,,,,RR 1 Box 1558,Brackney,PA,18812.0,,,registration_contacts,registration
+Santo D.,Caracciolo,,,,,,74 Eastwood Dr.,Johnson City,NY,13790.0,,,registration_contacts,registration
+Patrick,Carbone,,,,,,34 Maplewood Dr,Binghamton,NY,13901.0,,,registration_contacts,registration
+John David,Card,,,,,,16 George St.,Lisle,NY,13797.0,,,registration_contacts,registration
+Linda,Carlson,,,,,,42 Linden St,Binghamton,NY,13901.0,(631) 379-8123,mydootibbyx2@yahoo.com,registration_contacts,registration
+Charles,Carpenter,,,,,,332 Bunn Hill Rd,Vestal,NY,13850.0,,,registration_contacts,registration
+Ellie,Carpenter,,,,,,9 Crestmont Rd.,Binghamton,NY,13905.0,,,registration_contacts,registration
+Mikayla,Carr,,,,,,7 Maple Ave,Binghamton,NY,13903.0,,,registration_contacts,registration
+Carmelo,Casanova-Pignatiello,,,,,,65 Beethoven Street,Binghamton,NY,13905.0,,,registration_contacts,registration
+The,Casey Family,,,,,,29 Oak Ridge Dr.,Binghamton,NY,13903.0,,,registration_contacts,registration
+Bart,Catmull,,,,,,4756 S Cosmic,Mesa,AZ,85212.0,(813) 404-1579,BartCatmull2016@gmail.com,registration_contacts,registration
+Christina,Cavanaugh,,,,,,265 Ludington Rd,Maine,NY,13802.0,(607) 725-0297,ccavanaugh9@yahoo.com,registration_contacts,registration
+Jacqueline,Ceiri,,,,,,43 Riale Ave,Johnson City,NY,13790.0,,,registration_contacts,registration
+Traci,Cerasaro,Walmart,,,,,24 Dover Dr,Endicott,NY,13760.0,(607) 723-0114,Traci.Cerasaro_shrm-@walmart.com,registration_contacts,registration
+MaryAnn,Cerretani,,,,,,12 Edgecomb Rd,Binghamton,NY,13905.0,(607) 760-5213,MACERRETANI@gmail.com,registration_contacts,registration
+Nick,Cerretani,,,,,,1200 Holly Hill Rd,Vestal,NY,13850.0,,,registration_contacts,registration
+The,Chaffee Family,,,,,,5125 North Capital St NE,Washington,DC,20011.0,,,registration_contacts,registration
+David,Chambers,,,,,,,,,,(607) 222-2983,davidjchambers0613@gmail.com,registration_contacts,registration
+Sigrid,Chang,,,,,,8 Davis St,Binghamton,NY,13905.0,,,registration_contacts,registration
+Candace,Chapman,Visions Federal Credit Union,,,,,33 Riverside Dt,Binghamton,NY,13905.0,(607) 768-1685,candace.chapman3@gmail.com,registration_contacts,registration
+Wayne,Chariff,,,,,,59 Court St Ste 401,Binghamton,NY,13901.0,,,registration_contacts,registration
+Mary Lou,Cherinko,,,,,,,,,,(607) 343-3883,marylouconrow@gmail.com,registration_contacts,registration
+Kyle,Chrisofferson,,,,,,1215 Chenango St,Binghamton,NY,13901.0,(607) 235-4984,christoffersen.kyle1@gmail.com,registration_contacts,registration
+Dennis,Chronister,,,,,,286 Village Ct,Kingston,NY,12401.0,,,registration_contacts,registration
+Ryan & Andrea,Chronister,Vieira & Associates,111 Grant Ave,Endicott,NY,13760.0,8984 State Route 38,Newark Valley,NY,13811.0,(845) 699-1754; (607) 765-0541,rchronister@vapc.us,registration_contacts,registration
+Dan,Clink,,,,,,2500 North St,Endicott,NY,13760.0,(607) 341-3110,dclinksr@gmail.com,registration_contacts,registration
+Kenneth,Coleman,,,,,,PO Box 1330,Binghamton,NY,13902.0,,,registration_contacts,registration
+Lucia,Collar-Yagas,,,,,,1156 Anna Maria Dr,Johnson City,NY,13790.0,(312) 539-0934,collaryagaslucia@gmail.com,registration_contacts,registration
+Patricia,Collins,,,,,,2408 Lynnhurst Dr,Vestal,NY,13850.0,,,registration_contacts,registration
+Tom & Christine,Combs,,,,,,49 Clifton Blvd,Binghamton,NY,13903.0,(607) 644-7356,thomasjcombs@gmail.com,registration_contacts,registration
+Roger,Conklin,,,,,,39 Carol Ct,Conklin,NY,13748.0,,,registration_contacts,registration
+Matthew,Conlon,,,,,,,,,,(607) 765-6216,matthew@conlonassociates.com,registration_contacts,registration
+James,Conn,,,,,,3351 Laurie Brook Dr,Binghamton,NY,13903.0,,,registration_contacts,registration
+Thomas,Connors,,,,,,309 Winding Ridge Rd,Endwell,NY,13760.0,,,registration_contacts,registration
+Ellen,Conti,,,,,,532 Hooper Rd,Endwell,NY,13760.0,,,registration_contacts,registration
+Linda,Cooper,,,,,,151 Rosedale Dr,Binghamton,NY,13905.0,,,registration_contacts,registration
+Jessica,Corbett,Gault Auto,2507 North St,Endicott,NY,13760.0,314 Skye Island Dr,Endicott,NY,13760.0,(607) 222-5148,jessicacorbett2@gmail.com,registration_contacts,registration
+Sharon,Corrington,,,,,,8 McDonald Ave,Binghamton,NY,13905.0,,,registration_contacts,registration
+Terry,Cortese-Green,,,,,,13 Grandview Ave,Binghamton,NY,13904.0,,,registration_contacts,registration
+Eric,Cotts,,,,,,67 Hogan Rd,Vestal,NY,13850.0,,,registration_contacts,registration
+The,Coyle Family,,,,,,47 Matthews St,Binghamton,NY,13905.0,,,registration_contacts,registration
+Charlotte,Craig,,,,,,220 Westtown Way,West Chester,PA,19382.0,,,registration_contacts,registration
+Susan,Crane,,,,,,42 Pamela Dr,Binghamton,NY,13901.0,(607) 759-9328,scrane@binghamton.edu,registration_contacts,registration
+Cameron,Crimmins,,,,,,,,,,(607) 242-6291,ashleycrimmins1224@gmail.com,registration_contacts,registration
+Margaret,Crocker,,,,,,5 Riverside Dr.,Binghamton,NY,13905.0,,,registration_contacts,registration
+Kiernan & Meghan,Crowley,,,,,,35 Blackstone Ave,Binghamton,NY,13903.0,,,registration_contacts,registration
+Leah,Cunningham,,,,,,2 Stonecrest Dr,Binghamton,NY,13903.0,,,registration_contacts,registration
+Richard,Cunningham,,,,,,2126 E Hamton Rd,Binghamton,NY,13903.0,,,registration_contacts,registration
+Gina,Curcio,,,,,,513 Prentice Rd,Vestal,NY,13850.0,,,registration_contacts,registration
+Mike,D'Aristotile,,,,,,101 Broad St.,Plattsburgh,NY,12901.0,,,registration_contacts,registration
+Lawrence & Georgina,Dake,,,,,,39 Kelly Rd,Castle Creek,NY,13744.0,,,registration_contacts,registration
+Sheryl,Dalton,,,,,,10 Westland Ct,Binghamton,NY,13905.0,,,registration_contacts,registration
+Steve,Daniels,,,,,,,,,,(570) 647-8649,srd5061@gmail.com,registration_contacts,registration
+Kathy,Darrow,,,,,,,,,,(607) 321-8124,kathdar63@gmail.com,registration_contacts,registration
+David,Davenport,,,,,,10 Patricia St,Binghamton,NY,13905.0,,,registration_contacts,registration
+Richard,David,,,,,,38 Hawley St,Binghamton,NY,13901.0,,,registration_contacts,registration
+Norman,Davies,,,,,,19 Brookside Ln,Chenango Forks,NY,13746.0,,,registration_contacts,registration
+Jeffery & Sidney,Davis,,,,,,39 Timber Bluff Ct,Binghamton,NY,13903.0,,,registration_contacts,registration
+Brian,DeBoyace,,,,,,18 Theresa Blvd,Binghamton,NY,13901.0,,,registration_contacts,registration
+Omotinuwe,DeFlippo,,,,,,Foster Road,Vestal,NY,13850.0,,,registration_contacts,registration
+Laura,DeJong,,,,,,85 West St,Johnson City,NY,13790.0,,,registration_contacts,registration
+Heather,DeLorme,,,,,,44 Oak St,Binghamton,NY,13905.0,,,registration_contacts,registration
+Julia,Dennis,,,,,,6 Carhart Ave,Binghamton,NY,13905.0,,,registration_contacts,registration
+Sharon,Dennis,,,,,,PO Box 405,Hancock,NY,13783.0,,,registration_contacts,registration
+Doreen,DePersis,,,,,,851 Chapman Loop,The Villages,FL,32162.0,,,registration_contacts,registration
+Marcy,Depew,Vision Federal Credit Union,,,,,34 Matthews St,Binghamton,NY,13905.0,(607) 237-6983,marcy.depew@lpl.com,registration_contacts,registration
+Jerry & Tammy,Derrick,,,,,,,,,,(607) 760-0942,nealon44@yahoo.com,registration_contacts,registration
+Sophia,Devine,,,,,,94 Crescent Dr.,Kirkwood,NY,13795.0,,,registration_contacts,registration
+Beth,Dibble,,,,,,,,,,(607) 343-6247,beth62062@aol.com,registration_contacts,registration
+Jeff,Dibble,,,,,,,,,,(607) 343-6244,jeff@jdtool.net,registration_contacts,registration
+Joseph,DiCamillo,Andrew R. Mancinc Associates Inc.,129 Odell Ave,Endicott,NY,13760.0,4551 Quaker Lake Rd,Brackney,PA,18812.0,(607) 727-1871,rico@armoggi.com,registration_contacts,registration
+Lisa,Dimick,,,,,,501 Grand Ave,Johnson City,NY,13790.0,,,registration_contacts,registration
+James,Ditondo,,,,,,221 Crocker Hill Rd,Binghamton,NY,13904.0,,,registration_contacts,registration
+James,Donovan,,,,,,PO Box 1350,Binghamton,NY,13902.0,,,registration_contacts,registration
+Lana,Dordell,,,,,,7 Miller Street Apt 1,Binghamton,NY,13901.0,,,registration_contacts,registration
+Patti,Dowd,,,,,,95 Seminary Ave,Binghamton,NY,13905.0,(607) 768-3927,pdowd@binghamton.edu,registration_contacts,registration
+Sheila,Doyle,,,,,,17 Christopher St.,Binghamton,NY,13903.0,,,registration_contacts,registration
+The,Drake Family,,,,,,245 Castle Creek Road,Binghamton,NY,13901.0,,,registration_contacts,registration
+Julianna,Dranichak,,,,,,282 Deyo Hill Rd Apt 3136 - EW,Johnson City,NY,13790.0,,,registration_contacts,registration
+Michael,Dribnak,,,,,,8224 Willow Ln,Niwot,CO,12211.0,,,registration_contacts,registration
+Richard & Deborah,Duorsky,,,,,,13 Deyo Hill Rd,Johnson City,NY,13790.0,,,registration_contacts,registration
+Nori,Durham,,,,,,30 Spring Forest Ave,Binghamton,NY,13905.0,,,registration_contacts,registration
+Allan,Eagles,Gault Auto Group,2507 North St,Endwell,NY,13760.0,,,,,(607) 725-5553,al@gaultauto.com,registration_contacts,registration
+Bradley,Eaton,,,,,,53 Elmwood Dr,Apalachin,NY,13732.0,,,registration_contacts,registration
+Dave,Eggleston,,,,,,1254 Chase Ct,Binghamton,NY,13901.0,,,registration_contacts,registration
+Kenneth,Elliott,,,,,,315 Pollard Hill Rd,Johnson City,NY,13790.0,,,registration_contacts,registration
+Blaine,Ellis,,,,,,384 Gorman Rd,Kirkwood,NY,13795.0,,,registration_contacts,registration
+Richard,Ellis,,,,,,34 Virginia Ave,Binghamton,NY,13905.0,(607) 221-3134; (607) 644-6423,ellisrich17@yahoo.com; rebeccaellis1900@gmail.com,registration_contacts,registration
+Kenneth,Ellsworth,,,,,,58 Exchange St.,Binghamton,NY,13901.0,,,registration_contacts,registration
+Renee,Elwood,,,,,,4732 Royal Dornoch Circle,Bradenton,FL,34211.0,,,registration_contacts,registration
+Dan,Encarnacao,,,,,,85 Main St,Port Washington,NY,11050.0,,,registration_contacts,registration
+Rita,Ernstrom,,,,,,3324 Cynthia Dr,Binghamton,NY,13903.0,,,registration_contacts,registration
+William,Ernstrom,,,,,,17550 W 54th Pl,Golden,CO,80403.0,,,registration_contacts,registration
+Heather,Everett,,,,,,16 Dover Dr.,Endicott,NY,13760.0,,,registration_contacts,registration
+Edward,Everitt,,,,,,1565 Straits Corners Rd,Owego,NY,13827.0,,,registration_contacts,registration
+Ronald & Sharon,Fairs,,,,,,14 S Morningside Dr,Binghamton,NY,13905.0,,,registration_contacts,registration
+The Algi,Family,,,,,,15 Dickinson St. Apt. 1,Binghamton,NY,13905.0,,,registration_contacts,registration
+The Dunwoody,Family,,,,,,80 Matthews St,Binghamton,NY,13905.0,,,registration_contacts,registration
+The Gallagher,Family,,,,,,211 Leroy St,Binghamton,NY,13905.0,,,registration_contacts,registration
+The Greenstrom,Family,,,,,,3116 Belmont ave,Vestal,NY,13850.0,,,registration_contacts,registration
+The Hillis,Family,,,,,,457 Grippen Hill Rd,Vestal,NY,13850.0,,,registration_contacts,registration
+The Melville,Family,,,,,,33 Kenilworth Rd,Binghamton,NY,13905.0,,,registration_contacts,registration
+The Moore,Family,,,,,,2081 Partridge Ln,Binghamton,NY,13903.0,,,registration_contacts,registration
+The Nowetner,Family,,,,,,396 Bleknap Rd.,Endicott,NY,13760.0,,,registration_contacts,registration
+The Pape,Family,,,,,,309 Fordham Rd,Vestal,NY,13850.0,,,registration_contacts,registration
+The Verbitskiy,Family,,,,,,196 Brown Rd,Vestal,NY,13850.0,,,registration_contacts,registration
+Mike & Corinne,Farrell,,,,,,4266 Quaker Lake Rd,Brackney,PA,18812.0,(607) 725-9488,cafstrat@aol.com,registration_contacts,registration
+Bohdan & Karen,Fedczuk,,,,,,209 Leroy St,Binghamton,NY,13905.0,(607) 798-0264,eastlandingdweller@gmail.com,registration_contacts,registration
+Cameron,Fedish,,,,,,26 Sandy Lane,Binghamton,NY,13901.0,(607) 760-8522,cfedish@gmail.com,registration_contacts,registration
+Irene,Feinig-Ros,,,,,,46 Rugby Rd,Binghamton,NY,13905.0,,,registration_contacts,registration
+Brayden,Feldman,,,,,,258 Smith Hill Rd,Binghamton,NY,13905.0,,,registration_contacts,registration
+William,Fenwick,,,,,,1116 Old State Rd,Binghamton,NY,13904.0,,,registration_contacts,registration
+Tina,Fernandez,,,,,,55 Blackstone Ave,Binghamton,NY,13903.0,,,registration_contacts,registration
+Joe,Ferretti,,,,,,104 Ann St,Blakely,PA,18452.0,(570) 983-7848,ferrettij@yahoo.com,registration_contacts,registration
+Robert,Fiacco,,,,,,3212 Brown Rd,Binghamton,NY,13903.0,,,registration_contacts,registration
+Michelle,Fish,,,,,,95 Krager Rd,Binghamton,NY,13904.0,,mrogers@rogersservicegroup.com,registration_contacts,registration
+Robert,Fisher,,,,,,PO Box 1254,Vestal,NY,13850.0,,,registration_contacts,registration
+Leona,Fiske,,,,,,10 Gregory Ave,Binghamton,NY,13901.0,,,registration_contacts,registration
+Donald M.,Flanagan,,,,,,18 Crestmont Rd.,Binghamton,NY,13905.0,,,registration_contacts,registration
+Heather,Foley,,,,,,218 Rundall Place,Binghamton,NY,13905.0,(607) 427-7479,hfoley@stny.rr.com,registration_contacts,registration
+Michael,Fontana,,,,,,2 La France Rd,Binghamton,NY,13901.0,,,registration_contacts,registration
+Eileen,Fox,,,,,,,,,,(607) 743-9832,foxei80@aol.com,registration_contacts,registration
+Louis,Francavillo,,,,,,3333 Cynthia Dr,Binghamton,NY,13903.0,,,registration_contacts,registration
+Donald R.,Franck,,,,,,Rr1 Box 1152 Barney Rd.,Brackney,PA,18812.0,,,registration_contacts,registration
+Richard,Frankerl,,,,,,23 Clifton Blvd.,Binghamton,NY,13903.0,,,registration_contacts,registration
+Kevin,Franz,,,,,,100 George St,Vestal,NY,13850.0,(607) 779-8510,kfranz@nbtbank.com,registration_contacts,registration
+Cindy,Fredendall,,,,,,,,,,(607) 759-8803,cfredendall@mcintoshlabs.com,registration_contacts,registration
+Laura,Freeze,,,,,,1457 Pennsylvania Ave,Apalachin,NY,13732.0,,,registration_contacts,registration
+Tony,Frontera,,,,,,54 Crocus Lane,Avon,CT,6001.0,(607) 725-7731,frontera.t@gmail.com,registration_contacts,registration
+The,Gamba Family,,,,,,67 Elm St,Newark Valley,NY,13811.0,,,registration_contacts,registration
+Mike,Gance,,,,,,602 Old Front St,Binghamton,NY,13905.0,,,registration_contacts,registration
+Jennifer,Gardiner,,,,,,33 Cherry Valley Hill Rd,Maine,NY,13802.0,,,registration_contacts,registration
+Steve,Gates,,,,,,1250 Front St,Binghamton,NY,13901.0,,,registration_contacts,registration
+Bob & Connie,Gault,,,,,,3367 Tripoli Blvd,Punta Gorda,FL,33950.0,(607) 222-0841,Rob@gaultauto.com,registration_contacts,registration
+Rob,Gault,,,,,,1760 Bornt Hill Rd,Endicott,NY,13760.0,(607) 222-0841,rob@gaultauto.com,registration_contacts,registration
+Charles,Gaynor,,,,,,2 Maplewood Dr,Binghamton,NY,13901.0,,,registration_contacts,registration
+Nancy,Gehres,,,,,,5 Otseningo St.,Binghamton,NY,13905.0,,,registration_contacts,registration
+David,Geiser,,,,,,123 E Hamton Rd,Binghamton,NY,13903.0,,,registration_contacts,registration
+Vincent,Gennett,,,,,,,,,,(607) 206-6470,vgennett@nbtbank.com,registration_contacts,registration
+Edwin,Gent,,,,,,"4 Oak St, Townhouse 12",Binghamton,NY,13905.0,(607) 760-8652,ecbjgent@gmail.com,registration_contacts,registration
+Christina,George,,,,,,265 Industrial Park Dr.,Binghamton,NY,13904.0,,,registration_contacts,registration
+Natasha,Giammarino,,,,,,260 Powers Rd,Binghamton,NY,13903.0,,,registration_contacts,registration
+Ben,Giordano,,,,,,97 Crestmont Rd,Binghamton,NY,13901.0,,,registration_contacts,registration
+James & Kathy,Gleason,"Hinman, Howard & Kattell",P.O. Box 5250,Binghamton,NY,13902.0,75 Audubon Ave,Binghamton,NY,13903.0,(607) 231-6703,jgleason@hhk.com,registration_contacts,registration
+Doreen,Glowienka,,,,,,3711 Highview Dr.,Endwell,NY,13760.0,(607) 754-9690,doreenglow12@gmail.com,registration_contacts,registration
+Laurie,Goff,,,,,,,,,,(607) 761-8083,laurien71@yahoo.com,registration_contacts,registration
+Ryan,Goodfellow,,,,,,301 Scottholm Blvd,Syracuse,NY,13224.0,(315) 727-2092,(315) 727-2092,registration_contacts,registration
+Shelagh,Goodrich,,,,,,90 Jane Lacey Dr,Endicott,NY,13760.0,(607) 306-3205,shelaghg1116@gmail.com,registration_contacts,registration
+Ronald,Goodwin,,,,,,7 Wesley Court,Binghamton,NY,13903.0,(607) 217-4171,rgoodwin986@gmail.com,registration_contacts,registration
+Alicia,Gordon,,,,,,316 Burd Rd,Vestal,NY,13850.0,(607) 344-1138,(607) 344-1138,registration_contacts,registration
+Mark,Gorgos,Coughlin & Gerhart,99 Corporate Drive,Binghamton,NY,13904.0,,,,,,,registration_contacts,registration
+Kemar,Gorick,,,,,,27 Track Dr,Binghamton,NY,13904.0,,,registration_contacts,registration
+Lisa,Gorman,,,,,,1129 Elton Dr,Endicott,NY,13760.0,(607) 372-5250,lisamariat31@gmail.com,registration_contacts,registration
+Lisa,Gorman Reitz,,,,,,42 Fenton Ave,Binghamton,NY,13901.0,(607) 427-5015,lisa.reitz@nyuhs.org,registration_contacts,registration
+Richard,Grace,,,,,,55 Riverside Dr.,Binghamton,NY,13905.0,,,registration_contacts,registration
+Ronald & Kelly,Greene,,,,,,9 Blackstone Ave.,Binghamton,NY,13903.0,,,registration_contacts,registration
+Vicki Ann,Griffin,,,,,,3052 Webb Rd,Binghamton,NY,13903.0,,,registration_contacts,registration
+The,Grills Family,,,,,,17 Mozart St,Binghamton,NY,13905.0,,,registration_contacts,registration
+Donald,Grunder,,,,,,16 Niles Rd,Binghamton,NY,13901.0,,,registration_contacts,registration
+Theresa,Gruver,,,,,,1006 Hazel Dr,Endicott,NY,13760.0,,,registration_contacts,registration
+Stephen,Guinan,,,,,,99 Hawley St Ste 200,Binghamton,NY,13901.0,,,registration_contacts,registration
+Allison,Gunther,,,,,,845 River Rd,Mount Upton,NY,13809.0,(973) 975-7225,paul.Gunther@mirabito.com,registration_contacts,registration
+David & Leslie,Guy,,,,,,38 Crestmont Rd,Binghamton,NY,13905.0,,,registration_contacts,registration
+Sophia,Hall,,,,,,3007 Hall St,Endwell,NY,13760.0,,,registration_contacts,registration
+Chanelle,Hampton,,,,,,421 Ivy Place,Johnson City,NY,13790.0,,,registration_contacts,registration
+Philip,Hampton,,,,,,160 Castle Creek Rd,Binghamton,NY,13901.0,,,registration_contacts,registration
+Peter & Maureen,Hankin,,,,,,41 Eagle Dr,Endwell,NY,13760.0,,,registration_contacts,registration
+Robert,Hanss,,,,,,207 Suffolk Rd,Chestnut Hill,MA,2467.0,,,registration_contacts,registration
+Tom & Colleen,Harding,,,,,,553 Jones Rd.,Vestal,NY,13850.0,,,registration_contacts,registration
+Desember,Hardy,,,,,,30 Spring Forest Ave,Binghamton,NY,13905.0,,,registration_contacts,registration
+Robert & Mary Ann,Harkness,,,,,,201 Patio Dr,Endwell,NY,13760.0,(607) 222-2999,Harknessma@yahoo.com,registration_contacts,registration
+Ornella,Harvey,,,,,,2928 Ricky Dr,Endicott,NY,13760.0,,,registration_contacts,registration
+Edward,Hatoff,,,,,,PO Box 1673,Binghamton,NY,13902.0,,,registration_contacts,registration
+Cathy,Hawkes,,,,,,1250 Cornell Ave,Binghamton,NY,13901.0,,hawkesc91@gmail.com,registration_contacts,registration
+Reggie,Hawkins,,,,,,,,,,(607) 240-6587,regiehawk6@yahoo.com,registration_contacts,registration
+Doreen,Hayes,,,,,,9 Whitcomb Drive,Binghamton,NY,13901.0,(607) 760-0838,dhayes8668@gmail.com,registration_contacts,registration
+James M.,Hayes,,,,,,2504 Rhonda Dr.,Vestal,NY,13850.0,,,registration_contacts,registration
+Bridget,Hertel,,,,,,4 Greybark Dr,Apalachin,NY,13732.0,,,registration_contacts,registration
+The,Higgins Family,,,,,,52 Rogers Mtn Way,Binghamton,NY,13901.0,,,registration_contacts,registration
+Karen,Hilmy,,,,,,315 Murphy Ave,Endicott,NY,13760.0,,,registration_contacts,registration
+Karl,Hirshman,,,,,,2820 E Hawthorne St,Tucson,AZ,85716.0,,,registration_contacts,registration
+Riley,Hodges,,,,,,630 Cranes Nest Rd,Owego,NY,13827.0,,,registration_contacts,registration
+Eric,Hoffman,,,,,,30 Walker Ave,Morristown,NJ,7960.0,(202) 390-3225,ericphoffman@gmail.com,registration_contacts,registration
+Paul & Nadine,Hoffman,,,,,,2652 Clearview Dr,Endwell,NY,13760.0,(607) 341-5608,,registration_contacts,registration
+James,Hoffmann,,,,,,4 Tiffany Ave,Conklin,NY,13748.0,,,registration_contacts,registration
+Scott,Hotalen,,,,,,325 Fordham Rd,Vestal,NY,13850.0,,Shotalen@vapc.us,registration_contacts,registration
+Leslie,Howard,,,,,,2737 Grandview Pl.,Endicott,NY,13760.0,,,registration_contacts,registration
+Ronald & Carolyn,Howe,,,,,,11 Griffis St,Binghamton,NY,13904.0,,,registration_contacts,registration
+Harry,Howland,,,,,,,,,,(607) 759-3627,harry@armoggi.com,registration_contacts,registration
+Stephen & Marelene,Hranek,,,,,,191 Wilson Hill Rd,Binghamton,NY,13905.0,,,registration_contacts,registration
+Chris,Hudock,,,,,,1301 Front St,Vestal,NY,13850.0,,,registration_contacts,registration
+Finbar,Huff,,,,,,426 1/2 Taft Ave,Endicott,NY,13760.0,(607) 749-0812,finnyh25@hotmail.com,registration_contacts,registration
+Finbarr,Huff,,,,,,426 1/2 Taft Ave,Endicott,NY,13760.0,(607) 749-0812,finnyh25@hotmail.com,registration_contacts,registration
+Fritz,Huff,,,,,,21 Crestmont Rd,Binghamton,NY,13905.0,,,registration_contacts,registration
+Paul & Nicole,Huff,,,,,,21 Crestmont Rd,Binghamton,NY,13905.0,(607) 727-2946,paulhuff@huffdelivers.com,registration_contacts,registration
+Judie,Hull,,,,,,18 Denton Rd,Binghamton,NY,13903.0,,,registration_contacts,registration
+Merle & Neela,Hundertfund,,,,,,745 East Main Rd,Johnson City,NY,13790.0,(607) 729-5904,fhundertfun@stny.rr.com,registration_contacts,registration
+Chip,Hunt,,,,,,7 Brookside Rd,Binghamton,NY,13903.0,(607) 343-2835,chunt1@stny.rr.com,registration_contacts,registration
+Chris,Hutchings,,,,,,925 Upper Front St,Binghamton,NY,13905.0,,,registration_contacts,registration
+Sandra,Hutchins,,,,,,12 Dendron Dr,Tunkhannock,PA,18657.0,,,registration_contacts,registration
+Karen,Iby-Patricia,,,,,,,,,,(607) 222-4164,kpatricia@bbgcoach@gmail.com,registration_contacts,registration
+Thomas,Jackson,,,,,,477 State St Ste 1,Binghamton,NY,13901.0,(607) 343-0792,tom@jacksonbergman.com,registration_contacts,registration
+Joe,Jaskiewicz,,,,,,309 2nd Ave,Vestal,NY,13850.0,,,registration_contacts,registration
+The,Jin Family,,,,,,1309 Cameron Lane,Vestal,NY,13850.0,,,registration_contacts,registration
+Damien,Johnson,,,,,,20 Lamont St,Binghamton,NY,13901.0,,,registration_contacts,registration
+Douglas R.,Johnson,,,,,,4 Oak St,Binghamton,NY,13905.0,(607) 797-2866,DRJtrust@aol.com,registration_contacts,registration
+Jayde,Johnson,,,,,,6 Valley Vista Ct,Kirkwood,NY,13795.0,,,registration_contacts,registration
+Skyler,Johnson,,,,,,65 E Catherine St,Binghamton,NY,139047.0,,,registration_contacts,registration
+Bob,Johnston,,,,,,69 Felters Rd,Binghamton,NY,13903.0,,,registration_contacts,registration
+George,Jones,,,,,,122 Pine Valley Rd,Dover,DE,19904.0,,,registration_contacts,registration
+John,Jones,,,,,,,,,,(607) 727-7605,jjones30@stny.rr.com,registration_contacts,registration
+Max & Julie,Jones,,,,,,,,,,(315) 391-2265,jegregg2@gmail.com,registration_contacts,registration
+Merle,Jones,,,,,,176 Ahern Rd,Binghamton,NY,13903.0,,,registration_contacts,registration
+Carol,Judd,,,,,,2123 Clear Brooke Dr,Kannapolis,NC,28083.0,,,registration_contacts,registration
+Daniel,Juraska,,,,,,34 Hotchkiss St,Binghamton,NY,13903.0,,,registration_contacts,registration
+Vivienne,Juriga,,,,,,4720 Deerfield Pl,Vestal,NY,13850.0,,,registration_contacts,registration
+Lynda Rose,Juser,,,,,,,,,,(607) 743-7266,sandrilynda@yahoo.com,registration_contacts,registration
+Henry,Kachadorian,,,,,,20 Westland Ct,Binghamton,NY,13905.0,,,registration_contacts,registration
+Maureen,Kadlecik,,,,,,40 Chenango St,Binghamton,NY,13901.0,,,registration_contacts,registration
+Debra,Kafura,,,,,,154 Hiner Rd,Binghamton,NY,13904.0,(607) 759-6756,deb@kafura.net,registration_contacts,registration
+Stephen,Kane,,,,,,469 Glendale Dr Apt 25,Endicott,NY,13760.0,(607) 427-8242,StephenKaneNY@gmail.com,registration_contacts,registration
+Ronald & Sandra,Kaschak,,,,,,214 Pine Rd.,Susquehanna,PA,18847.0,,,registration_contacts,registration
+Ernest,Kensey,,,,,,1705 Cypress Ave,Belleair,FL,33756.0,,,registration_contacts,registration
+Annette,Kenyon,"Park Outdoor Advertising 113 Clinton St Binghamton, NY 13905",,,,,145 Bear Swamp Rd,Chenango Forks,NY,13746.0,(607) 727-5692,annette.kenyon@parkoutdoor.com,registration_contacts,registration
+Ryan,Kida,,,,,,1704 Little York Crossing Rd,Homer,NY,13077.0,,,registration_contacts,registration
+Nancy,Kiley,,,,,,3003 Phyllis St,Endwell,NY,13760.0,,,registration_contacts,registration
+Kaleb,King,,,,,,103 Norton Ave,Endwell,NY,13760.0,,,registration_contacts,registration
+Mike,King,Astec Re-Ply Roofing Systems,27 Link Dr,Binghamton,NY,13904.0,,,,,,,registration_contacts,registration
+Duane,Kinnow,,,,,,375 W Onondaga St,Syracuse,NY,13202.0,,,registration_contacts,registration
+Floyd,Kintner,,,,,,8035 Pine Hollow Dr,Mount Dora,FL,32757.0,,,registration_contacts,registration
+Brad,Kirby,America's Attic,308 Harry L. Drive,Johnson City,NY,13790.0,10 Edwards St,Binghamton,NY,13901.0,(607) 651-4310,Bradmartinkirby@ymail.com,registration_contacts,registration
+Oliver,Kirchgraber,,,,,,572 Nabinger Hill Rd,Nineveh,NY,13813.0,,,registration_contacts,registration
+Pat,Kleitz,,,,,,990 Girdle Rd,East Aurora,NY,14052.0,,,registration_contacts,registration
+Ian,Klock,,,,,,36 Floral Ave,Binghamton,NY,13905.0,,,registration_contacts,registration
+Martin,Klucka,,,,,,4208 Fuller Hollow Rd,Vestal,NY,13850.0,,,registration_contacts,registration
+Ruthann,Koffman,,,,,,3160 Hickory Ln.,Binghamton,NY,13903.0,,,registration_contacts,registration
+Pam,Kollar,,,,,,23 Devon Blvd,Binghamton,NY,13903.0,,,registration_contacts,registration
+The,Kollar Family,,,,,,23 Devon Blvd,Binghamton,NY,13903.0,,,registration_contacts,registration
+Maureen,Konchar,,,,,,326 Anderson Rd,Vestal,NY,13850.0,,,registration_contacts,registration
+Geri,Korchak,,,,,,14 Cherry Ln.,Binghamton,NY,13901.0,,,registration_contacts,registration
+David,Kost,,,,,,335 Court St.,Binghamton,NY,13904.0,,,registration_contacts,registration
+Harry & Diane,Kost,,,,,,102 Gates Street,Binghamton,NY,13903.0,(607) 759-4066,mickey3rd@aol.com,registration_contacts,registration
+Lisa,Kost,,,,,,67 Lathrop Ave,Binghamton,NY,13905.0,(607) 237-6276,lnoelle2@gmail.com,registration_contacts,registration
+Richard,Kowaliw,,,,,,3316 Sommersby Ct,Williamsburg,VA,23188.0,,,registration_contacts,registration
+Melvin,Kowitski,,,,,,209 Harry L Dr,Johnson City,NY,13790.0,,,registration_contacts,registration
+Brian,Kradjian,,,,,,177 Main St,Binghamton,NY,13905.0,,,registration_contacts,registration
+Diran & Socie,Kradjian,,,,,,12 Stratford Pl,Binghamton,NY,13905.0,,,registration_contacts,registration
+Jackie,Kradjian,,,,,,234 Leroy St,Binghamton,NY,13905.0,,,registration_contacts,registration
+Loucine,Kradjian,,,,,,4112 Drexel Dr.,Vestal,NY,13850.0,,,registration_contacts,registration
+Jared,Kraham,,,,,,182 Leroy St,Binghamton,NY,13905.0,(607) 206-0544,,registration_contacts,registration
+Suzanne,Krause,,,,,,15 Jutland Rd,Binghamton,NY,13903.0,,,registration_contacts,registration
+Carol,Kresge,,,,,,PO Box 910,Binghamton,NY,13902.0,,,registration_contacts,registration
+Danielle,Krisko,,,,,,2530 State Route 12,Chenango Forks,NY,13746.0,(607) 624-3751,daniellekrisko@yahoo.com,registration_contacts,registration
+Carla,Krumins,,,,,,3 Merwin Rd Apt 3,Valatie,NY,12184.0,,,registration_contacts,registration
+George,Krupanski,,,,,,24 Revelstone Dr,Newark,DE,19711.0,,,registration_contacts,registration
+Stephen,Kucera,,,,,,3248 Dogwood Dr.,Binghamton,NY,13903.0,,,registration_contacts,registration
+The,Kutalek Family,,,,,,182 Brink Rd,Kirkwood,NY,13795.0,,,registration_contacts,registration
+Bob,Kutz,,,,,,42 Kendall Ave,Binghamton,NY,13903.0,,,registration_contacts,registration
+Marvin,Kutz,,,,,,4529 Madison Dr,Vestal,NY,13850.0,,,registration_contacts,registration
+Jeffrey,Lake,NBT Bank,PO Box 186,Vestal,NY,13850.0,175 West End Ave,Binghamton,NY,13905.0,(607) 725-8866,jlake@nbtbank.com,registration_contacts,registration
+Gayle,Lampe,,,,,,21 Sumner Ave,Binghamton,NY,13905.0,,,registration_contacts,registration
+David,Laszewski,,,,,,726 Ballyhack Rd,Port Crane,NY,13833.0,,,registration_contacts,registration
+Martin,Lawson,,,,,,20 Devon Blvd,Binghamton,NY,13903.0,,,registration_contacts,registration
+Hyme,Lee,,,,,,321 South Jensen Rd,Vestal,NY,13850.0,,,registration_contacts,registration
+Ezra,Leeson-Schatz,,,,,,20 Lincoln Ave,Binghamton,NY,13905.0,,,registration_contacts,registration
+Chester,Lelio,,,,,,171 Coach Light Ln,Lincoln,CA,95648.0,,,registration_contacts,registration
+Milana,Lemberg,,,,,,1133 Murray Hill Rd,Vestal,NY,13850.0,,,registration_contacts,registration
+Joseph,Leombrone,,,,,,27 Thorp St,Binghamton,NY,13905.0,,,registration_contacts,registration
+Hugh,Leonard,,,,,,491 Brooks Rd,BInghamton,NY,13905.0,(607) 427-2093,hleonard@lclawoffice.com,registration_contacts,registration
+Maureen,Leonard,,,,,,246 Powers Rd,Binghamton,NY,13903.0,,,registration_contacts,registration
+Stephanie,Leonard,,,,,,,,,,(315) 399-9590,sleonard6393@gmail.com,registration_contacts,registration
+Ronald,Lesch,,,,,,74 Matthews Dr,Binghamton,NY,13901.0,,,registration_contacts,registration
+Jen,Lesko,,,,,,129 Leroy St #3,Binghamton,NY,13905.0,(607) 245-9553,jenniferlesko1@gmail.com,registration_contacts,registration
+Samuel K,Levene,,,,,,601 Murray Hill Rd,Vestal,NY,13850.0,,,registration_contacts,registration
+Lillian,Levy,"Hinman, Howard & Kattell",,,,,48 Lathrop St,Binghamton,NY,13905.0,(607) 231-6725,llevy@hhk.com,registration_contacts,registration
+Nicholas & Marcy,Licari,,,,,,33 Blackstone Ave,Binghamton,NY,13903.0,,,registration_contacts,registration
+Janis,Liepins,,,,,,30 Dover Dr,Endicott,NY,13760.0,,,registration_contacts,registration
+Kenneth,Livingston,,,,,,111 Strathmore Dr,Syracuse,NY,13207.0,,,registration_contacts,registration
+Jeffrey,Loew,,,,,,29 Kenilworth Rd,Binghamton,NY,13903.0,,,registration_contacts,registration
+Lucy,Loewenstein,,,,,,4 Williams Pl,Binghamton,NY,13903.0,,,registration_contacts,registration
+Michele,Lott,,,,,,146 Crestmont Rd,Binghamton,NY,13905.0,,,registration_contacts,registration
+Mithcell,Lott,,,,,,146 Crestmont Rd,Binghamton,NY,13905.0,,,registration_contacts,registration
+Donna,Lupardo,,,,,,State Office Building 17th Floor,Binghamton,NY,13901.0,,,registration_contacts,registration
+Jonah,Lyons,,,,,,7 Lathrop Ave,Binghamton,NY,13905.0,,,registration_contacts,registration
+Mark,MacDonnell,,,,,,PO Box 225,Great Bend,PA,18821.0,,,registration_contacts,registration
+Jeff,Mackenzie,,,,,,,,,,(607) 624-9714,jeffarai23@yahoo.com,registration_contacts,registration
+James,Macko,,,,,,440 Robin Ln.,Vestal,NY,13850.0,,,registration_contacts,registration
+Kathleen,Macri,,,,,,55 Johnson Ave,Binghamton,NY,13905.0,,,registration_contacts,registration
+Jill & Robert,Madigan,,,,,,49 Mill St,Binghamton,NY,13903.0,,,registration_contacts,registration
+The,Maestri Family,,,,,,50 Willis Rd,Binghamton,NY,13905.0,,,registration_contacts,registration
+The,Mahler Family,,,,,,258 Felters Rd,Binghamton,NY,13903.0,,,registration_contacts,registration
+Joseph,Mahon,Wayne Bank,,Binghamton,NY,13905.0,51 Beethoven St,Binghamton,NY,13905.0,(607) 242-8571,joseph.mahon@waynebank.com; jmahon1909@gmail.com,registration_contacts,registration
+Marise,Mahon,,,,,,1080 Wisconsin Ave NW,Washington,DC,20007.0,,,registration_contacts,registration
+Edward,Major,,,,,,22 Avon Rd,Binghamton,NY,13905.0,,,registration_contacts,registration
+Catherine & Ronald,Maliwacki,,,,,,786 Bunn Hill Rd,Vestal,NY,13850.0,,,registration_contacts,registration
+Carolyn,Mancini,Andrew R. Mancini Associates,129 Odell Ave,Endicott,NY,13760.0,,,,,(607) 754-7070,carolyn@armoggi.com,registration_contacts,registration
+Joseph & Cheryl,Mancini,,,,,,406 Milan Ave,Endicott,NY,13760.0,(607) 727-7198; (607) 206-2864,jmancini500@gmail.com; cherylmancini500@gmail.com,registration_contacts,registration
+John T.,Maney,,,,,,18 Park Pl,Delhi,NY,13753.0,,,registration_contacts,registration
+Joanne,Maniago,,,,,,80 Fairview Ave # 209,Binghamton,NY,13904.0,,,registration_contacts,registration
+Nicholas,Manjerovic,,,,,,42 Crestmont Rd,Binghamton,NY,13905.0,,,registration_contacts,registration
+Nancy,Marcello,,,,,,42 N Morningside Dr,Binghamton,NY,13905.0,,,registration_contacts,registration
+Justin,Marchuska,,,,,,33 Thistlewood Dr,Binghamton,NY,13903.0,,,registration_contacts,registration
+Sylvia,Marchuska,,,,,,2500 Saddlebrook Dr,Vestal,NY,13850.0,,,registration_contacts,registration
+John & Cheryl,Marshall,,,,,,,,,,,johnmarshallstudios@icloud.com,registration_contacts,registration
+Bryan,Martin,,,,,,517 River Terrace,Endicott,NY,13760.0,,,registration_contacts,registration
+Grace,Masciarelli,,,,,,,,,,(607) 724-5867,gracem567@verizon.net,registration_contacts,registration
+Mario,Masciarelli,,,,,,14 Kennedy St,Binghamton,NY,13903.0,,,registration_contacts,registration
+Michael,Mastro,,,,,,2807 Old Vestal Rd,Vestal,NY,13850.0,,,registration_contacts,registration
+The,Mastronardi Family,,,,,,3026 Webb Rd,Binghamton,NY,13903.0,,,registration_contacts,registration
+Contino,Mastrovianni,,,,,,4613 Radcliffe Blvd,Vestal,NY,13850.0,,,registration_contacts,registration
+Jason,Mathew,,,,,,,,,,,abyjmathew@gmail.com,registration_contacts,registration
+Richard,Matsushima,,,,,,108 N Jensen Rd,Vestal,NY,13850.0,,,registration_contacts,registration
+Jim & Micki,Matthews,,,,,,2002 Cambridge Pl,Vestal,NY,13850.0,(607) 237-9056,mmatthews@matthewsauto.com,registration_contacts,registration
+Mr. M,Matthews,,,,,,,,,,(607) 237-9056,mmatthewsauto.com,registration_contacts,registration
+Rob,Matthews,,,,,,2002 Cambridge Pl,Vestal,NY,13850.0,,,registration_contacts,registration
+Michael,Mattick,"Mattick CPA, P.C.",1249 Front St Suite 102,Binghamton,NY,13905.0,,,,,(215) 264-4794,michael@mattickcpa.com,registration_contacts,registration
+Mike & Kelly,Mattick,,,,,,206 Beartown Rd,Port Crane,NY,13833.0,(215) 264-1212,kellyemattick@gmail.com; michael@mattickcpa.com,registration_contacts,registration
+Joann,May,,,,,,,,,,(607) 237-2806,jorosel954@gmail.com,registration_contacts,registration
+Richard,Maye,,,,,,27 Frederick St,Binghamton,NY,13901.0,,,registration_contacts,registration
+Tim & Nikki,Mayers,,,,,,276 McGraw Rd,Friendsville,PA,18818.0,(607) 348-6854,mayersnicole@gmail.com; nikki@vapc.us,registration_contacts,registration
+Thomas,Mazzanoble,,,,,,8 Moran Ct,Binghamton,NY,13903.0,,,registration_contacts,registration
+Kemar,McCallum,,,,,,29 Valley St,Binghamton,NY,13905.0,(374) 216-3424,mccallumka@hotmail.com,registration_contacts,registration
+Frank,McCarthy,Eatern Staffing and Recruiting,4100 Vestal Rd #101,Vestal,NY,13850.0,,,,,,,registration_contacts,registration
+Michael,McCarthy,,,,,,8 Panorama Dr.,Binghamton,NY,13901.0,,,registration_contacts,registration
+James,McCoy,,,,,,969 Gillen Dr.,Binghamton,NY,13903.0,,,registration_contacts,registration
+Gregory,McDonald,,,,,,853 W Circle Dr,Vestal,NY,13850.0,,,registration_contacts,registration
+Terry,McDonald,,,,,,1028 Whittemore Hill Rd,Owego,NY,13827.0,,,registration_contacts,registration
+Mark,McDonough,,,,,,236 Cheshire Way,Naples,FL,34110.0,,,registration_contacts,registration
+Joe,McGinnis,,,,,,3 Westland Court,Binghamton,NY,13905.0,,,registration_contacts,registration
+Marisa,McGinnis,,,,,,12 Overbrook Ave,Binghamton,NY,13903.0,,,registration_contacts,registration
+Marisa,McGinnis,,,,,,12 Overbrook Ave,Binghamton,NY,13903.0,,,registration_contacts,registration
+Lisa,McGonnigal,,,,,,130 Royall Street,Canton,MA,2021.0,,,registration_contacts,registration
+Terrance,McGuinness,,,,,,937 Forest Rd,Endwell,NY,13760.0,,,registration_contacts,registration
+Mike,McHugh,,,,,,,,,,(607) 724-6706,mickmchugh13@gmail.com,registration_contacts,registration
+Marie,McKenna,,,,,,3 Bennett Ave,Binghamton,NY,13905.0,,,registration_contacts,registration
+Gloria,McLallen,,,,,,RR 1 Box 1586,Friendsville,PA,18818.0,,,registration_contacts,registration
+J. A.,McLean,,,,,,175 Winged Foot Dr,Willow Park,TX,76008.0,,,registration_contacts,registration
+Maureen,McManus,,,,,,87 Matthews St,Binghamton,NY,13905.0,(607) 725-8115,foxe180@aol.com,registration_contacts,registration
+June,Mead,,,,,,195 S Washington St,Binghamton,NY,13903.0,,,registration_contacts,registration
+Robert,Mead,,,,,,PO Box 518,Endicott,NY,13760.0,,,registration_contacts,registration
+Thomas,Meade,,,,,,611 Jeanette Rd,Endicott,NY,13760.0,,,registration_contacts,registration
+William,Meade,,,,,,206 Taft Ave,Endicott,NY,13760.0,,,registration_contacts,registration
+Fred,Meagher,,,,,,114 Home Ave,Binghamton,NY,13903.0,(607) 722-3660,,registration_contacts,registration
+Jeremy,Medak,,,,,,28 Jane Lacey Drive Apt G,Endicott,NY,13760.0,(518) 935-0166,jmedak935@gmail.com,registration_contacts,registration
+Jaleel,Mency,,,,,,23 South Morningside Drive,Binghamton,NY,13905.0,,,registration_contacts,registration
+Lisa Gorman,Merritt,,,,,,2719 Watson Blvd,Endwell,NY,13760.0,,,registration_contacts,registration
+Jared,Mhirsi,,,,,,2512 Bayberry Ln,Vestal,NY,13850.0,,,registration_contacts,registration
+Cory,Micholychak,,,,,,,,,,(607) 237-6884,cory@corystaxservice.com,registration_contacts,registration
+Judie,Mickelson,,,,,,28 Rosedale Dr,Binghamton,Binghamton,13905.0,(607) 206-5012,jmickelson@stny.rr.com,registration_contacts,registration
+Jaiden,Midyette,,,,,,12 Livingston St.  Apt 1,Binghamton,NY,13903.0,,,registration_contacts,registration
+Phillip,Mikoda,,,,,,237 North Rd,Windsor,NY,13865.0,,,registration_contacts,registration
+Kenneth,Miller,,,,,,8 Rugby Rd,Binghamton,NY,13905.0,,,registration_contacts,registration
+Larry,Miller,,,,,,43 Milford St,Binghamton,NY,13904.0,,,registration_contacts,registration
+Stephen & Susie,Miller,,,,,,3421 Almar Dr.,Vestal,NY,13850.0,,,registration_contacts,registration
+Jill,Mirabito,,,,,,2 Court St. Suite 100,Binghamton,NY,13901.0,,,registration_contacts,registration
+Joseph,Mirabito,Mirabito,PO Box 5306,Binghamton,NY,13902.0,57 Timberbluff Ct,Binghamton,NY,13903.0,(607) 237-9953,joe.mirabito@mirabito.com,registration_contacts,registration
+Rosemary,Mirabito,,,,,,,,,,(607) 437-4023,rosemarymirabito3@gmail.com,registration_contacts,registration
+RJ,Mirabito Jr.,,,,,,,,,,,richard.mirabito@gmail.com,registration_contacts,registration
+Elliott,Mister,,,,,,15 Lincoln Ave,Binghamton,NY,13905.0,,,registration_contacts,registration
+Gabriella,Mitchell,,,,,,88 Riverside Dr,Binghamton,NY,13905.0,,,registration_contacts,registration
+Cathy,Moore,,,,,,23 Division St,Binghamton,NY,13905.0,,,registration_contacts,registration
+Joseph,Moran,,,,,,277 Lake Shore Dr S,Maryland,NY,12116.0,(917) 327-0579,jdm33@cornell.edu,registration_contacts,registration
+James E.,Morton,,,,,,51 Front St.,Owego,NY,13827.0,,,registration_contacts,registration
+Ed,Moscato,,,,,,2406 Bradley Creek Road,Johnson City,NY,13790.0,(315) 729-5538,ed.moscato@yahoo.com,registration_contacts,registration
+Gary,Moyer,,,,,,12 Boland Ave,Binghamton,NY,,,,registration_contacts,registration
+Trevor,Moyer,,,,,,12 Boland Rd,Binghamton,NY,13905.0,,,registration_contacts,registration
+Joseph,Muhr,,,,,,245 Vivian Ln,Vestal,NY,13850.0,,,registration_contacts,registration
+Blondyne,Mukoko,,,,,,93 Pine St,Binghamton,NY,13901.0,,,registration_contacts,registration
+Evaline,Multer,,,,,,286 Deyo Hill Rd,Johnson City,NY,13790.0,,,registration_contacts,registration
+Paul,Murtaugh,,,,,,35 Newberry Drive,Endicott,NY,13760.0,,,registration_contacts,registration
+Tyrone,Muse,Visions FCU,3301 Country Club Rd,Endwell,NY,13760.0,,,,,,,registration_contacts,registration
+Oscar,Musselman,,,,,,717 Keenan Dr,Vestal,NY,13850.0,,,registration_contacts,registration
+Kim,Myers,,,,,,,,,,(607) 427-4777,kmyers209@aol.com,registration_contacts,registration
+Truman,Myers,,,,,,32 Lathrop Ave,Binghamton,NY,13905.0,,,registration_contacts,registration
+Mike,Nadha Reddy Mallu,Suny Binghamton,2226 Center of Excellence,Binghamton,NY,13902.0,,,,,(901) 647-2205,,registration_contacts,registration
+Kanneboyina,Nagaraju,Binghamton University School of Pharmaceuticals,PO Box 6000,Binghamton,NY,13902.0,56 East Country Gate Place,Vestal,NY,13850.0,(202) 740-0037,knagaraju64@yahoo.com,registration_contacts,registration
+Coltin,Nalepa,,,,,,1175 Vestal Ave Apt. 12,Binghamton,NY,13903.0,,,registration_contacts,registration
+Thomas,Neeley,,,,,,27913 Limestone Rd,Redwood,NY,13679.0,,,registration_contacts,registration
+Carol,Newman,,,,,,224 Lang Rd,Hancock,NY,13783.0,,carol.newman@psbt.com,registration_contacts,registration
+Marc,Newman,,,,,,PO Box 678,Vestal,NY,13850.0,,,registration_contacts,registration
+Peter,Newman,,,,,,,,,,(607) 725-6027,pnewman@mtb.com,registration_contacts,registration
+Eric,Niermeyer,,,,,,704 Princeton Dr,Vestal,NY,13850.0,(607) 765-5083,eniermeyer@gmail.com,registration_contacts,registration
+Dick,Nixon,,,,,,8 Gates St.,Binghamton,NY,13903.0,,,registration_contacts,registration
+Albert,Nocciolino,,,,,,104 Southwood Dr,Vestal,NY,13850.0,(607) 725-7608,an@nacentertainment.com,registration_contacts,registration
+Mike,O'Brien,,,,,,38 N. Canal St.,Oxford,NY,13830.0,,,registration_contacts,registration
+Renee,O'Brien,,,,,,6 Badger Rd,Binghamton,NY,13901.0,(607) 644-3396,Reneejpo@icloud.com,registration_contacts,registration
+Jared,O'Neill,,,,,,3121 Vestal Parkway East,Vestal,NY,13850.0,(607) 221-1919,jared.o'neill@nbtinsurance.com,registration_contacts,registration
+Jacob & Rose,Olum Foundation,,,,,,PO  Box F-1706,Binghamton,NY,13902.0,,,registration_contacts,registration
+Joana,Otaiza,,,,,,23 Fuller Ave # 2,Ardsley,NY,10502.0,,,registration_contacts,registration
+John,Otocka,,,,,,57 Audubon Ave,Binghamton,NY,13903.0,,,registration_contacts,registration
+James,Pace,,,,,,78 Bigelow St,Binghamton,NY,13904.0,,,registration_contacts,registration
+Rick,Pace,,,,,,2449 Maria Blvd,Binghamton,NY,13903.0,,,registration_contacts,registration
+Tela,Pacheco,,,,,,417 Robin Lane,Vestal,NY,13850.0,,,registration_contacts,registration
+Chris,Palmer,,,,,,3215 E Main St Ste 3,Endwell,NY,13760.0,,,registration_contacts,registration
+Trinity,Palmer,,,,,,12 Dale Ct,Binghamton,NY,13901.0,,,registration_contacts,registration
+Michael,Pandich,,,,,,31 Highland Rd.,Binghamton,NY,13901.0,,,registration_contacts,registration
+Joseph,Papso,,,,,,560 E Hartford St,Hernando,FL,34442.0,,,registration_contacts,registration
+Evgenia,Parent,,,,,,5 Rochelle Rd,Binghamton,NY,13901.0,(207) 242-0412,evgeniaparent1987@gmail.com,registration_contacts,registration
+Roy,Park,,,,,,1 Hampton Hill Ln,Ithaca,NY,14850.0,,,registration_contacts,registration
+Angelo,Pasquale,,,,,,116 David Lane,Endicott,NY,13760.0,(607) 765-6663,angepasquale@yahoo.com,registration_contacts,registration
+Len,Pasquale,,,,,,2194 Hazard Hill Rd,Binghamton,NY,13903.0,(607) 343-0811,lpasquale@algeorgeco.com,registration_contacts,registration
+C. A.,Paulsen,,,,,,3366 Douglas Dr,Binghamton,NY,13903.0,,,registration_contacts,registration
+Eugene & Judy,Peckham,,,,,,1 Stonecrest Dr,Binghamton,NY,13903.0,,,registration_contacts,registration
+Jim & Tina,Pennefeather,,,,,,2 Deborah Dr,Johnson City,NY,13790.0,(607) 727-0477,jpennefeather@eckplastics.com,registration_contacts,registration
+Kent,Pennell,,,,,,5 Pine Camp Dr,Binghamton,NY,13904.0,(607) 761-4909,Kpennell@iviindustries.com,registration_contacts,registration
+Prescott,Perkins,,,,,,60 Hogan Rd,Vestal,NY,13850.0,(607) 222-4548,peteperkins@twc.com,registration_contacts,registration
+The,Perkow Family,,,,,,27 Penny Street,Binghamton,NY,13901.0,,,registration_contacts,registration
+Joann,Perrin,,,,,,3208 Harwood Dr,Vestal,NY,13850.0,,,registration_contacts,registration
+David,Peterson,Binghamton Rumble Ponies,211 Henry St,Binghamton,NY,13901.0,7 Clarence St,Binghamton,NY,13903.0,"607 722-3866, 508 615-1943",peterman@bingrp.com; davepeterman@gmail.com,registration_contacts,registration
+Mitchell,Phelps,,,,,,21 Knauf Rd,Owego,NY,13827.0,(607) 821-9990,phelpsmitchell25@gmail.com,registration_contacts,registration
+Lenora,Phillips,,,,,,268 Franklin St,Great Bend,PA,18821.0,(607) 725-9446,lenora.phillips@msn.com,registration_contacts,registration
+Vincent & Claire,Piccirilli,,,,,,44 Forest Hills Blvd.,Binghamton,NY,13905.0,,,registration_contacts,registration
+Jeffrey,Pierce,,,,,,1242 Mead Rd,Binghamton,NY,13901.0,,,registration_contacts,registration
+Lamont & Rosanne,Pinker,RS Ad Agency,,,,,28 Virginia Ave,Binghamton,NY,13905.0,(607) 722-3939,LTPINKER@RSADAGENCY.com,registration_contacts,registration
+The,Pomeroy Family,,,,,,9 Canfield Rd,Binghamton,NY,13904.0,,,registration_contacts,registration
+Gerry,Ponterio,,,,,,90 Hawkins Hill Rd,Port Crane,NY,13833.0,,,registration_contacts,registration
+Kimberly,Potter,,,,,,626 W Main St,Endicott,NY,13760.0,,,registration_contacts,registration
+Stephen,Powell,,,,,,PO Box 501,Vestal,NY,13850.0,,,registration_contacts,registration
+Debra,Preston,,,,,,PO Box 1766,Binghamton,NY,13902.0,,,registration_contacts,registration
+Theresa,Price,,,,,,99 Hawley St Ste 200,Binghamton,NY,13901.0,,,registration_contacts,registration
+Brett,Pritchard,,,,,,21 Timberbluff Ct,Binghamton,NY,13903.0,(607) 343-9156,brett@pdc.build,registration_contacts,registration
+Eric,Putman,,,,,,58 Maraget St,Johnson City,NY,13790.0,(607) 759-2809,cerbrus@aol.com,registration_contacts,registration
+Gerald,Putman,,,,,,1 Marlayne Dr,Johnson City,NY,13790.0,(607) 725-7159,geraldp1219@gmail.com,registration_contacts,registration
+Eric,Qiao,,,,,,808 Rano Blvd,Vestal,NY,13850.0,,,registration_contacts,registration
+Michael,Rabedeau,,,,,,39 Bennett Ave,Binghamton,NY,13905.0,,,registration_contacts,registration
+Charlie,Randall,,,,,,,,,,(607) 759-5827,crandall@mcintoshlabs.com,registration_contacts,registration
+Roderic,Reeder,,,,,,5 Riverside Dr Apt 903,Binghamton,NY,13905.0,,,registration_contacts,registration
+Serge,Reiss,,,,,,19736 Falcon Ridge Ln,Northridge,CA,91326.0,,,registration_contacts,registration
+Renee,Reksc,,,,,,2261 Kathleen Dr,Vestal,NY,13850.0,,,registration_contacts,registration
+Stephen,Richards,SGR Precision Components,,,,,199 Willis Rd,Binghamton,NY,13905.0,(607) 725-6178,srich71.sgr@gmail.com,registration_contacts,registration
+Sofia,Rittenhouse,,,,,,58 Walnut St.,Binghamton,NY,13905.0,,,registration_contacts,registration
+Bob & Karla,Rizzuto,,,,,,160 East Hamton Rd,Binghamton,NY,13903.0,(607) 343-1720,rizzutokarla@gmail.com,registration_contacts,registration
+Angelo,Roberts,,,,,,96 Conklin Ave,Binghamton,NY,13903.0,,,registration_contacts,registration
+Diana,Robertson,,,,,,"4 Oak St, Townhouse 15",Binghamton,NY,13905.0,,,registration_contacts,registration
+Kelly,Roche,,,,,,,,,,(607) 761-1854,karoche@yahoo.com,registration_contacts,registration
+Rick,Rogalewicz,,,,,,118 Belmont Ave,Clarks Green,PA,18411.0,(570) 903-7092,richard.p.rogalewicz@gmail.com,registration_contacts,registration
+Robert,Rogers,,,,,,422 W. Chenango Rd.,Castle Creek,NY,13744.0,,,registration_contacts,registration
+The,Rogers Family,,,,,,616 Sunset Dr.,Endicott,NY,13760.0,,,registration_contacts,registration
+The,Romo Family,,,,,,25 Mozart St,Binghamton,NY,13905.0,,,registration_contacts,registration
+The,Root Family,,,,,,170 McAllister Rd.,Windsor,NY,13865.0,,,registration_contacts,registration
+Robert,Rose,,,,,,3652 Lott St,Endicott,NY,13760.0,,,registration_contacts,registration
+Sadie,Ross,,,,,,355 Ingraham Hill Rd,Binghamton,NY,13903.0,,,registration_contacts,registration
+Lawrence,Rouff,,,,,,4700 Dovehill Dr,Palm Beach Gardens,FL,33418.0,,,registration_contacts,registration
+Zoey,Rought,,,,,,23 Lake Street,Owego,NY,13827.0,,,registration_contacts,registration
+Patricia,Rourke,,,,,,48 Riverside Dr,Binghamton,NY,13905.0,,,registration_contacts,registration
+Anjelica,Rowe,,,,,,691 Echo Lake Rd,Greene,NY,13778.0,(607) 237-1918,anjelica.stanko@aol.com,registration_contacts,registration
+Mike & Kelly,Rowe,,,,,,,,,,(607) 624-6145,pictureit111@yahoo.com,registration_contacts,registration
+Steve,Rowell,,,,,,3501 Old Vestal Rd,Vestal,NY,13850.0,,,registration_contacts,registration
+Robert,Ruchames,,,,,,19 Murray St,Binghamton,NY,13905.0,,,registration_contacts,registration
+Patrick,Ruddy,,,,,,40 Larchmont Rd,Binghamton,NY,13903.0,,,registration_contacts,registration
+Esther,Sabol,,,,,,5 Riverside Dr Apt 702,Binghamton,NY,13905.0,,,registration_contacts,registration
+Richard,Sadowski,,,,,,2840 Chestnut Ridge Rd,Apalachin,NY,13732.0,,,registration_contacts,registration
+Mario,Salati,,,,,,939 N Rogers Ave,Endicott,NY,13760.0,,,registration_contacts,registration
+Ron,Sall,Sall Stearns,52 Court St,Binghamton,NY,13901.0,,,,,,,registration_contacts,registration
+Grayson,Santoni,,,,,,12 Sherwood Ave,Binghamton,NY,13903.0,,,registration_contacts,registration
+Mark,Saroka,,,,,,31 Warner Rd,Binghamton,NY,13901.0,(607) 343-9378,wearepsu@ymail.com,registration_contacts,registration
+Michael,Sastra,,,,,,4 Mansfield Dr,Endicott,NY,13760.0,,,registration_contacts,registration
+John,Scales,,,,,,474 Monkey Run Rd,Port Crane,NY,13833.0,,,registration_contacts,registration
+Jeffery,Schapiro,,,,,,2508 Oak Hollow Dr.,Vestal,NY,13850.0,,,registration_contacts,registration
+William,Scheider,,,,,,326 Prospect St.,Binghamton,NY,13905.0,,,registration_contacts,registration
+George,Scherer,,,,,,9 Pamela Dr,Binghamton,NY,13901.0,,,registration_contacts,registration
+Richard,Schlauder,,,,,,103 Helen St,Binghamton,NY,13905.0,,,registration_contacts,registration
+David,Schmeiske,,,,,,PO Box 676,Applegate,CA,95703.0,,,registration_contacts,registration
+Teri,Schunk,NBT Bank,1256 Front St,Binghamton,NY,13901.0,,,,,,,registration_contacts,registration
+William,Schuyler,Dick's Sporting Goods,2433 Vestal Parkway East,Vestal,NY,13850.0,,,,,,,registration_contacts,registration
+Catherine,Schwoeffermann,,,,,,70 Front St Ste 1,Binghamton,NY,13905.0,,,registration_contacts,registration
+Jerome,Scott,,,,,,521 S Grippen Ave,Endicott,NY,13760.0,,,registration_contacts,registration
+Richard,Scott,,,,,,520 Riverside Dr,Johnson City,NY,13790.0,,,registration_contacts,registration
+Camden,Scoville,,,,,,60 Coventry Lane,Binghamton,NY,13903.0,,,registration_contacts,registration
+Stephen,Scoville,,,,,,2144 W. Hampton Rd.,Binghamton,NY,13903.0,,,registration_contacts,registration
+Tony,Seel,,,,,,,,,,(607) 239-2196,tony.seel@lpl.com,registration_contacts,registration
+Robert,Seidel,,,,,,17 Telegraph St,Binghamton,NY,13903.0,,,registration_contacts,registration
+Nick,Serafini,,,,,,375 State St.,Binghamton,NY,13901.0,,,registration_contacts,registration
+Raymond,Severance,,,,,,2802 University Cir,Endwell,NY,13760.0,,,registration_contacts,registration
+Rick,Shaw,,,,,,PO Box 1625,Binghamton,NY,13902.0,,,registration_contacts,registration
+John,Shea,Tompkins Financial Advisors,,,,,27427 State Route 267,Friendsville,PA,18818.0,(607) 222-6306,JSHEA@tompkinsfinancial.com; jsheagolfer46@gmail.com,registration_contacts,registration
+Robert,Shores,,,,,,70 Homer St,Binghamton,NY,13903.0,,,registration_contacts,registration
+Pearl,Shulman,,,,,,2 Rotary Ave,Binghamton,NY,13905.0,,,registration_contacts,registration
+Vernon,Shumaker,,,,,,10 Bennett Ave,Binghamton,NY,13905.0,,,registration_contacts,registration
+Elliot,Shuta,,,,,,2412 Carol Ct,Binghamton,NY,13901.0,,,registration_contacts,registration
+Helene,Siemiarowski,,,,,,160 Helen Street,Binghamton,NY,13905.0,,,registration_contacts,registration
+Clifford,Signor,,,,,,100 Cayuga Dr,Lisle,NY,13797.0,,,registration_contacts,registration
+Susan,Sinay,,,,,,204 Oneida St,Sayre,PA,18840.0,,,registration_contacts,registration
+Ernest,Skiadas,,,,,,PO Box 93,Binghamton,NY,13903.0,,,registration_contacts,registration
+Glenn,Small,,,,,,28 Clifton Blvd,Binghamton,NY,13903.0,(607) 759-6674,gsmall466@gmail.com,registration_contacts,registration
+Brian,Smith,,,,,,36 Telford Ave,Oakwood,OH,45419.0,,,registration_contacts,registration
+James,Smith,,,,,,2 Court St Fl 2,Binghamton,NY,13901.0,,,registration_contacts,registration
+Jean,Smith,,,,,,15 Munson St,Conklin,NY,13748.0,,,registration_contacts,registration
+Linda,Smith,,,,,,48 Margaret St,Johnson City,NY,13790.0,,,registration_contacts,registration
+Mark,Smith,Pyramid Management Group,,,,,51 Matthews St,Binghamton,NY,13905.0,(607) 765-0714,Smith.Mark.hc13@gmail.com,registration_contacts,registration
+Marybeth,Smith,Boys & Girls Club of Binghamton,90 Clinton St,Binghamton,NY,13905.0,17 Calgary Ln,Binghamton,NY,13901.0,(607) 765-0896,MBSmith@stny.rr.com,registration_contacts,registration
+Morris,Smith,,,,,,107 Betsey Williams Dr,Cranston,RI,2905.0,,,registration_contacts,registration
+Chad,Smyk,,,,,,96 Parnassus Rd,Berkeley,CA,94708.0,,,registration_contacts,registration
+Gevon,Sognalian,,,,,,11 Brookfield Rd,Binghamton,NY,13903.0,,,registration_contacts,registration
+Kyle,Somerville,,,,,,,,,,,Lightbreaker4847@yahoo.com,registration_contacts,registration
+Roberto,Sostre,,,,,,21 Delmar St.,Binghamton,NY,13903.0,,,registration_contacts,registration
+Deborah,Spear,,,,,,197 Matthews St,Binghamton,NY,13905.0,,,registration_contacts,registration
+Carl,Speicher,,,,,,,,,,(607) 222-6655,cspeicher@mtb.com,registration_contacts,registration
+Carl,Speicher,,,,,,PO Box 148,Brackney,PA,18812.0,,,registration_contacts,registration
+Sara,Spencer,,,,,,287 Red Chalk Rd,Erin,NY,14838.0,(845) 642-3337,sara.asif@alumni.acphs.edu,registration_contacts,registration
+Joseph,Sperduti,,,,,,2713 Robins St,Endwell,NY,13760.0,,,registration_contacts,registration
+Eileen,St. Onge,,,,,,51 Summer St,Hanover,MA,2339.0,,,registration_contacts,registration
+Donna,Stack,,,,,,17184 Bay St,Jupiter,FL,33477.0,,,registration_contacts,registration
+Ed,Stack,Dick's Sporting Goods,300 Industry Drive,Pittsburgh,PA,15275.0,,,,,(412) 809-0100 ext. 3203,,registration_contacts,registration
+Luke,Stanton,,,,,,,,,,(607) 768-1230,lstanton12@gmail.com,registration_contacts,registration
+James,Stark,,,,,,PO Box 6000,Binghamton,NY,13902.0,,,registration_contacts,registration
+Harvey,Stenger,,,,,,946 Vestal Ave,Binghamton,NY,13903.0,,,registration_contacts,registration
+Hugh,Stone,,,,,,4315 Ridge Road,Thompson,PA,18465.0,,,registration_contacts,registration
+Justine,Storr,,,,,,117 Albany Ave,Johnson City,NY,13790.0,,,registration_contacts,registration
+Brent,Strignano,,,,,,,,,,(607) 287-8573,brent.strignano@gmail.com,registration_contacts,registration
+Todd,Stupski,,,,,,20 Emma St,Binghamton,NY,13905.0,,,registration_contacts,registration
+Sadie,Sudduth,,,,,,405 Maple Way,Safety Harbor,FL,34695.0,,,registration_contacts,registration
+Michelle,Swan,,,,,,34 Chenango St,Binghamton,NY,13901.0,,,registration_contacts,registration
+Marissa,Sweeney,GHS Federal Credit Union,910 Front St,Binghamton,NY,13905.0,1689 Nanticoke Ave,Endicott,NY,13760.0,(607) 222-5681,mgorenflo13@gmail.com,registration_contacts,registration
+Liam,Sweet,,,,,,108 Melbourne St,Vestal,NY,13850.0,,,registration_contacts,registration
+Irene,Talcott,,,,,,253 Stark Rd,Tunkhannock,PA,18657.0,,,registration_contacts,registration
+Ellie,Tassey,,,,,,59 Skyview Lane,Binghamton,NY,13905.0,(607) 743-5557,ellie@amroggi.com,registration_contacts,registration
+Robert,Tassey,,,,,,59 Sky View Ln.,Binghamton,NY,13905.0,,,registration_contacts,registration
+Lowell,Taylor,,,,,,1040 Taft Ave,Endicott,NY,13760.0,,,registration_contacts,registration
+Jocelyn,Terranova,,,,,,322 S 46th St.,Philadelphia,PA,19143.0,,,registration_contacts,registration
+Michele,Thompson,,,,,,13 Kathi Ave,Binghamton,NY,13905.0,(607) 222-7805,mschrio13@gmail.com,registration_contacts,registration
+Rod & Pat,Thompson,,,,,,15 Concord Rd,Dover,DE,19904.0,,,registration_contacts,registration
+Nickole,Thorn,,,,,,,,,,(607) 341-5463,nthorn@mtb.com,registration_contacts,registration
+Stella,Titus,,,,,,31 Hayes St,Norwich,NY,13815.0,,,registration_contacts,registration
+Tim & Tracy,Tokos,,,,,,,,,,(607) 222-6614,ttokos@stny.rr.com,registration_contacts,registration
+The,Tong Family,,,,,,2509 Foxwood Ln,Vestal,NY,13850.0,,,registration_contacts,registration
+Bob,Topa,,,,,,,,,,(443) 986-8317,topabob@gmail.com,registration_contacts,registration
+Henry,Trasolini,,,,,,307 Norton Ave,Endicott,NY,13760.0,,,registration_contacts,registration
+Charlotte,Truxal,,,,,,113 Phelps St,Binghamton,NY,13901.0,(607) 761-7012,ctruxy1@gmail.com,registration_contacts,registration
+Mike,Tulsey,,,,,,1533 Pearl St,Vestal,NY,13850.0,(607) 972-4443,miketulsey@icloud.com,registration_contacts,registration
+Scott,Turney,,,,,,955 Starling Way,Rockledge,FL,32955.0,,,registration_contacts,registration
+James,Tweedie,,,,,,PO Box 13,Sidney,NY,13838.0,,,registration_contacts,registration
+Gloria,Valdez-Alt,,,,,,67 Beethoven St,Binghamton,NY,13905.0,,,registration_contacts,registration
+Gloria,Valdez-Alt,,,,,,37 Beethoven St,Binghamton,NY,13905.0,,,registration_contacts,registration
+Victor,Van Vestrout,,,,,,939 Neal Rd,Endicott,NY,13760.0,,,registration_contacts,registration
+Kirk,Van Zandbergen,,,,,,871 Arrowhead Lake Rd,Brackney,PA,18812.0,(570) 663-2210,vzphoto@frontiernet.net,registration_contacts,registration
+Nelson,VanAtta,,,,,,5 Moran Ct.,Binghamton,NY,13903.0,,,registration_contacts,registration
+Carmen,VanDunk,,,,,,110 Home Avenue,Binghamton,NY,13903.0,(607) 221-7854,c7vd12@yahoo.com,registration_contacts,registration
+Father Corey,VanKuren,,,,,,400 Murray Hill Rd.,Vestal,NY,13850.0,,,registration_contacts,registration
+Daniel,Verdon,,,,,,27 Rotary Ave Apt 2,Binghamton,NY,13905.0,,,registration_contacts,registration
+Mark,Vieira,,,,,,3718 Country Club Rd.,Endwell,NY,13760.0,,,registration_contacts,registration
+William,Vitaletti,,,,,,191 Matthews St.,Binghamton,NY,13905.0,,,registration_contacts,registration
+Tom & Terri,Wagner,,,,,,186 Ahearn Rd,Binghamton,NY,13903.0,(607) 765-2652,twagner2@stny.rr.com,registration_contacts,registration
+Mark,Walker,,,,,,4708 Deerfield Pl,Vestal,NY,13850.0,,,registration_contacts,registration
+The,Walker Family,,,,,,6 Penston Rd,Binghamton,NY,13903.0,,,registration_contacts,registration
+Dolly,Walls,,,,,,460 Linden Cir,Pawleys Island,SC,29585.0,,,registration_contacts,registration
+Sherwood,Walls,,,,,,3163 Hickory Ln,Binghamton,NY,13903.0,,,registration_contacts,registration
+Mary Beth,Walsh,,,,,,17 Coventry Lane,Binghamton,NY,13903.0,(607) 222-1012,mwalsh538@gmail.com,registration_contacts,registration
+Susan,Wanamaker,,,,,,3 Pearl Ave,Binghamton,NY,13903.0,(607) 222-0029,susanwanamaker@yahoo.com,registration_contacts,registration
+James,Ward,,,,,,87 Plough Rd,Vestal,NY,13850.0,(607) 765-2521,jdw32@cornell.edu,registration_contacts,registration
+Peter,Watrous,,,,,,73 Delaware Rd,Kenmore,NY,14217.0,,,registration_contacts,registration
+The,Weaver Family,,,,,,2063 Partridge Ln,Binghamton,NY,13903.0,,,registration_contacts,registration
+Bronsen,Weingartner,,,,,,68 Gaylord St,Binghamton,NY,13904.0,,,registration_contacts,registration
+Kim,Weinstein,,,,,,3605 Wildwood Dr,Endicott,NY,13760.0,,,registration_contacts,registration
+Carol,Weissmann,,,,,,,,,,,,registration_contacts,registration
+Scott & Catherine,Weissmann,,,,,,133 S. Meadowbrook Lane,Vestal,NY,13850.0,(607) 765-1444,scweissmann1116@gmail.com,registration_contacts,registration
+Lorna,Wells,,,,,,54 Crestmont Rd,Binghamton,NY,13905.0,,,registration_contacts,registration
+Logan,Werner,,,,,,1210 Hartwick Lane,Vestal,NY,13850.0,,,registration_contacts,registration
+Dawn,Wesko,,,,,,,,,,(607) 727-9737,dwesko@yahoo.com,registration_contacts,registration
+Mark,Westcott,,,,,,947 Harvard St.,Endicott,NY,13760.0,,,registration_contacts,registration
+Kevin,Westfall,,,,,,1429 Campus Dr,Vestal,NY,13850.0,,,registration_contacts,registration
+Joyce,Westgate,,,,,,4 Indigo Run Dr,Hilton Head,SC,29926.0,,,registration_contacts,registration
+The,Whiting Family,,,,,,2071 Partridge Lane,Binghamton,NY,13903.0,,,registration_contacts,registration
+Jean,Wiley,,,,,,118 Theresa Blvd,Binghamton,NY,13901.0,,,registration_contacts,registration
+Bishop,Wilkins,,,,,,11 Brownell Ave,Binghamton,NY,13905.0,,,registration_contacts,registration
+Claudia,Wilkins,,,,,,27 Ronan St.,Binghamton,NY,13901.0,,,registration_contacts,registration
+Thomas,Willerton,,,,,,20024 Cinnabar Dr,Gaithersburg,MD,20879.0,,,registration_contacts,registration
+Chad,Williams,,,,,,1167 Summit Rd,Apalachin,NY,13732.0,(607) 761-1530,Cwilliams@ghsfcu.com,registration_contacts,registration
+Cole,Williams,,,,,,40 Riverview Rd.,Kirkwood,NY,13795.0,,,registration_contacts,registration
+David M,Wilson,,,,,,RR 1 Box 1304,Brackney,PA,18812.0,,,registration_contacts,registration
+Maureen,Wilson,,,,,,37 Pembroke Dr,Endicott,NY,13760.0,,,registration_contacts,registration
+Kathleen,Wold,,,,,,24 Spring St,Endicott,NY,13760.0,,,registration_contacts,registration
+Benjamin,Wood,,,,,,7353 Sanger Hill Rd,Waterville,NY,13480.0,,,registration_contacts,registration
+Darryl,Wood,,,,,,677 Castle Creek Rd,Binghamton,NY,13901.0,,,registration_contacts,registration
+Terry,Wood,,,,,,25 Governeurs Ln,Endicott,NY,13760.0,,,registration_contacts,registration
+Charles,Woody,Broome County Sheriff's Department,,,,,11 Timberland Dr,Binghamton,NY,13903.0,(607) 798-1895,cwoodyjr2@gmail.com,registration_contacts,registration
+David & Sara,Wozniak,,,,,,20 Blanchard Ave,Binghamton,NY,13901.0,(607) 760-8295,dwozniak@teamworld.com; swozniak@binghamton.edu,registration_contacts,registration
+Jim & Julie,Wyatt,,,,,,37 Fernwood Lane,Binghamton,NY,13901.0,(607) 222-3660,wyatt.jjszj@gmail.com,registration_contacts,registration
+Jennifer,Yoder,,,,,,1501 Campus Dr,Vestal,NY,13850.0,(607) 768-1162,jennifergail1973@gmail.com,registration_contacts,registration
+Carl,Young,,,,,,9 Jester Ct,Schenectady,NY,12304.0,,,registration_contacts,registration
+Mark & Dawn,Young,,,,,,9 Brevity Ct.,Binghamton,NY,13905.0,,,registration_contacts,registration
+John,Yuhrick,,,,,,,,,,(607) 766-8385,jyuhniek@gmail.com,registration_contacts,registration
+Sophie-Claire,Zaychik,,,,,,337 Ingraham Hill Rd,Binghamton,NY,13903.0,,,registration_contacts,registration
+Sara,Zdimal,,,,,,1117 Emerald Ln,Endicott,NY,13760.0,,,registration_contacts,registration
+Dan,Zembek,,,,,,45 Deer Lake Rd,Windsor,NY,13865.0,,,registration_contacts,registration
+Liam,Zheng,,,,,,625 Country Club Rd,Vestal,NY,13850.0,,,registration_contacts,registration
+David,Ziebarth,,,,,,,,,,,Dave@dlzmarketing.com,registration_contacts,registration
